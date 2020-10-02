@@ -48,7 +48,7 @@
 									<div id="carousel-selector-3" class="thumb col-4 col-sm-2 px-1 py-2" data-target="#myCarousel" data-slide-to="3">
 										<img src="assets/img/gallery/sky-top-4.jpg" class="img-fluid" alt="...">
 									</div>
-									<div id="carousel-selector-3" class="thumb col-4 col-sm-2 px-1 py-2" data-target="#myCarousel" data-slide-to="3">
+									<div id="carousel-selector-3" class="thumb col-4 col-sm-2 px-1 py-2" data-target="#myCarousel" data-slide-to="4">
 										<img src="assets/img/gallery/sky-top-5.jpg" class="img-fluid" alt="...">
 									</div>
 								</div>

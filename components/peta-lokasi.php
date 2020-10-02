@@ -5,7 +5,11 @@
 		</div>
 		<div class="container">
 			<div class="row">
-				<div class="col-md-6 col-sm-6 col-xs-12">
+				<div class="col-md-12 col-sm-12 col-xs-12">
+					<img class="image-fluid" src="assets/img/map-location.jpg">	
+				</div>
+
+				<<!-- div class="col-md-6 col-sm-6 col-xs-12">
 
 					<div class="title-maps">
 						<h2><b>PETA LOKASI</h2></b>
@@ -18,9 +22,9 @@
 				</div>
 
 				<div class="col-md-6 col-sm-6 col-xs-12">
-					<img src="https://kotabaruparahyangan.com/clients/sekilas_area_komersial/image_1449134531.jpg">	
-				</div>
+					<img class="image-fluid" src="https://kotabaruparahyangan.com/clients/sekilas_area_komersial/image_1449134531.jpg">	
+				</div> -->
 				
 			</div>
 		</div>
-	</div>	<!-- peta lokasi -->
+	</div>	<!-- peta lokasi

@@ -28,7 +28,7 @@
 		<?php include 'components/videos.php';?>
 
 		<!-- after lead -->
-		<?php include 'components/afterlead.php';?>		
+		<?php include 'components/masterplan.php';?>
 
 		<!-- peta lokasi -->
 		<?php include 'components/peta-lokasi.php';?>
@@ -44,16 +44,14 @@
 			<div class="container-fluid no-padding bottom-footer">
 				<?php include 'components/footer.php';?>
 			</div><!-- Bottom Footer /- -->
-
 		</footer>
 
 		<a href="#" class="scroll-to-top">
 	      <i class="glyphicon glyphicon-chevron-up"></i>
 	    </a>
 
-	
-
 	<!-- the script -->
 	<?php include 'components/footer-script.php';?>
+	
 </body>
 </html>

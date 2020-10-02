@@ -9,17 +9,17 @@
 			
 			<div class="carousel-inner">
 				<div class="carousel-item active">
-					<img class="d-block img-fluid" src="assets/img/sky-top-3.jpg" alt="">
+					<img class="d-block img-fluid" src="assets/img/sky-top-3a.jpg" alt="">
 					<div class="carousel-caption d-none d-md-block">
-						<h3>Ruko Pancawarna</h3>
-						<p>Mari tumbuh bersama dengan Potensi Bisnis dan Invenstasi yang menjanjikan di Kota Baru Parahyangan</p>
+						<!-- <h3> </h3>
+						<p> </p> -->
 					</div>
 				</div>
 				<div class="carousel-item">
-					<img src="assets/img/sky-top-4.jpg" alt="" class="d-block img-fluid">
+					<img src="assets/img/sky-top-4a.jpg" alt="" class="d-block img-fluid">
 					<div class="carousel-caption d-none d-md-block">
-						<h3>Ruko Pancawarna</h3>
-						<p>Mari tumbuh bersama dengan Potensi Bisnis dan Invenstasi yang menjanjikan di Kota Baru Parahyangan</p>
+						<!-- <h3> </h3>
+						<p> </p> -->
 					</div>
 				</div>
 			</div><!-- /.carousel-inner -->
@@ -35,4 +35,4 @@
 		</div><!-- /.carousel -->
 
 <!-- 	</div>
-</div> -->
+</div>

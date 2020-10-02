@@ -1725,49 +1725,7 @@ h5.it{
 }
 
 
-/* karosel */
-.carousel {
-  position: relative;
-}
-.carousel-item img {
-  object-fit: cover;
-}
-#carousel-thumbs {
-  background: rgba(255,255,255,.3);
-  bottom: 0;
-  left: 0;
-  padding: 0 50px;
-  right: 0;
-}
-#carousel-thumbs img {
-  border: 5px solid transparent;
-  cursor: pointer;
-}
-#carousel-thumbs img:hover {
-  border-color: rgba(255,255,255,.3);
-}
-#carousel-thumbs .selected img {
-  border-color: #fff;
-}
-.carousel-control-prev,
-.carousel-control-next {
-  width: 50px;
-}
-@media all and (max-width: 767px) {
-  .carousel-container #carousel-thumbs img {
-    border-width: 3px;
-  }
-}
-@media all and (min-width: 576px) {
-  .carousel-container #carousel-thumbs {
-    position: absolute;
-  }
-}
-@media all and (max-width: 576px) {
-  .carousel-container #carousel-thumbs {
-    background: #ccccce;
-  }
-}
+
 
 /* sticky menu */
 .menu-sticky-dekstop {
@@ -1806,4 +1764,55 @@ input[type="text"]
     color: #3992CB;
     font-weight: 500;
     text-transform: uppercase;
+}
+
+.thumb2
+{
+    width: 350px;
+    height: 270px;
+    border: 1px solid #038A7C;
+    margin: 0px 20px;
+}
+.arrow-left {
+  width: 50px; 
+  height: 50px; 
+  border-top: 50px solid transparent;
+  border-bottom: 50px solid transparent;   
+  border-right:50px solid #038A7C;
+  margin-top: 25%; 
+  margin-left: 50%
+}
+.arrow-right {
+  width: 50px; 
+  height: 50px; 
+  border-top: 50px solid transparent;
+  border-bottom: 50px solid transparent;  
+  border-left: 50px solid #038A7C;
+  margin-top: 25%; 
+  margin-left: 40%
+}
+
+#myCarousel3 .list-inline {
+    white-space:nowrap;
+    overflow-x:auto;
+}
+#myCarousel3 .carousel-indicators {
+    position: static;
+    left: initial;
+    width: initial;
+    margin-left: initial;
+}
+#myCarousel3 .carousel-indicators > li {
+    width: initial;
+    height: initial;
+    text-indent: initial;
+}
+#myCarousel3 .carousel-indicators > li.active img {
+    opacity: 0.7;
+}
+
+.carousel-control {
+  padding-top:10%;
+  width:5%;
+  color: #038A7C;
 }

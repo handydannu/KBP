@@ -1,10 +1,9 @@
 
 	<!-- JQuery v1.11.3 
-	<script src="assets/js/jquery.min.js"></script>
+	<script src="assets/js/jquery.min.js"></script> -->
 
 	
-	 Library - Bootstrap v3.3.5 
-	<script src="assets/libraries/bootstrap/bootstrap.min.js"></script>Bootstrap JS File v3.3.5 -->
+	<script src="assets/libraries/bootstrap/bootstrap.min.js"></script>
 
 	<!-- Library - Modernizer -->
 	<script src="assets/libraries/modernizr/modernizr.js"></script>
@@ -42,3 +41,13 @@
 
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 
+	<script type="text/javascript">$(document).ready(function() {
+    $('#myCarousel').carousel({
+	interval: 10000
+	})
+    
+    $('#myCarousel').on('slid.bs.carousel', function() {
+	});    
+    
+	});
+	</script>

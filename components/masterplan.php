@@ -11,7 +11,7 @@
 					Kian terasa denyut & geliat kota di Kawasan Kota Mandiri yang Madani & Alami
 				</div>
 
-				<img class="img-fluid" src="assets/img/sky-top-6.jpg" alt="...">
+				<img class="img-fluid" src="assets/img/sky-top-mov-res.gif" alt="..." style="width: 100%">
 
 			</div>
 			</div>

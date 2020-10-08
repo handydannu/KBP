@@ -2,7 +2,7 @@
 		<div class="row">
 		<div class="col-lg-12 col-sm-12">
 			<div class="launching">
-				LAUNCHING NEW PHASE <br> RUKO PANCAWARNA
+				LAUNCHING NEW PHASE <br> RUKO TOWN CENTER <br> <span class="text-sm">SEBERANG IKEA STORE</span>
 			</div>
 			<hr class="hr-launching">
 			<div class="launching-download">
@@ -20,7 +20,7 @@
 								<a href="#" class="dwnl-btn"><i class="fa fa-download" aria-hidden="true"></i></a>
 							</div>
 							<div class="title-download">
-								Denah Ruko
+								E-BROSUR
 							</div>
 						</div>
 						<div class="col-md-4 col-sm-4 col-xs-12 mt-1">
@@ -28,7 +28,7 @@
 								<a href="#" class="dwnl-btn"><i class="fa fa-download" aria-hidden="true"></i></a>
 							</div>
 							<div class="title-download">
-								Masterplan
+								MASTERPLAN
 							</div>
 						</div>
 						<div class="col-md-4 col-sm-4 col-xs-12 mt-1">
@@ -36,7 +36,7 @@
 								<a href="#" class="dwnl-btn"><i class="fa fa-download" aria-hidden="true"></i></a>
 							</div>
 							<div class="title-download">
-								Spesifikasi Ruko
+								PROMO
 							</div>
 						</div><!-- end button download -->
 

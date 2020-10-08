@@ -17,28 +17,18 @@
 			</div>
 
 			<div class="row">
-			<div class="offset-lg-2"></div>
+			<div class="offset-lg-1"></div>
 
-			<div class="col-lg-8 m-2 mt-2">
+			<div class="col-lg-10 mt-2">
 	            <div id="masterplan-1" class="carousel slide">
 	                
 	                <!-- Carousel items -->
 	                <div class="carousel-inner">
 	                    <div class="item active">
 	                        <div class="row">
-	                            <div class="col-sm-6"><a href="#x"><img src="assets/img/masterplan/1.jpg" alt="Image" class="img-fluid"></a>
+	                            <div class="col-lg-6 col-sm-12 mt-2"><a href="#x"><img src="assets/img/masterplan/1.jpg" alt="Image" class="img-fluid"></a>
 	                            </div>
-	                            <div class="col-sm-6"><a href="#x"><img src="assets/img/masterplan/2.jpg" alt="Image" class="img-fluid"></a>
-	                            </div>
-	                        </div>
-	                        <!--/row-->
-	                    </div>
-	                    <!--/item-->
-	                    <div class="item">
-	                        <div class="row">
-	                            <div class="col-sm-6"><a href="#x"><img src="assets/img/masterplan/3.jpg" alt="Image" class="img-fluid"></a>
-	                            </div>
-	                            <div class="col-sm-6"><a href="#x"><img src="assets/img/masterplan/4.jpg" alt="Image" class="img-fluid"></a>
+	                            <div class="col-lg-6 col-sm-12 mt-2"><a href="#x"><img src="assets/img/masterplan/2.jpg" alt="Image" class="img-fluid"></a>
 	                            </div>
 	                        </div>
 	                        <!--/row-->
@@ -46,19 +36,9 @@
 	                    <!--/item-->
 	                    <div class="item">
 	                        <div class="row">
-	                            <div class="col-sm-6"><a href="#x"><img src="assets/img/masterplan/5.jpg" alt="Image" class="img-fluid"></a>
+	                            <div class="col-lg-6 col-sm-12 mt-2"><a href="#x"><img src="assets/img/masterplan/3.jpg" alt="Image" class="img-fluid"></a>
 	                            </div>
-	                            <div class="col-sm-6"><a href="#x"><img src="assets/img/masterplan/6.jpg" alt="Image" class="img-fluid"></a>
-	                            </div>
-	                        </div>
-	                        <!--/row-->
-	                    </div>
-	                    <!--/item-->
-	                    <div class="item">
-	                        <div class="row">
-	                            <div class="col-sm-6"><a href="#x"><img src="assets/img/masterplan/7.jpg" alt="Image" class="img-fluid"></a>
-	                            </div>
-	                            <div class="col-sm-6"><a href="#x"><img src="assets/img/masterplan/8.jpg" alt="Image" class="img-fluid"></a>
+	                            <div class="col-lg-6 col-sm-12 mt-2"><a href="#x"><img src="assets/img/masterplan/4.jpg" alt="Image" class="img-fluid"></a>
 	                            </div>
 	                        </div>
 	                        <!--/row-->
@@ -66,9 +46,9 @@
 	                    <!--/item-->
 	                    <div class="item">
 	                        <div class="row">
-	                            <div class="col-sm-6"><a href="#x"><img src="assets/img/masterplan/9.jpg" alt="Image" class="img-fluid"></a>
+	                            <div class="col-lg-6 col-sm-12 mt-2"><a href="#x"><img src="assets/img/masterplan/5.jpg" alt="Image" class="img-fluid"></a>
 	                            </div>
-	                            <div class="col-sm-6"><a href="#x"><img src="assets/img/masterplan/10.jpg" alt="Image" class="img-fluid"></a>
+	                            <div class="col-lg-6 col-sm-12 mt-2"><a href="#x"><img src="assets/img/masterplan/6.jpg" alt="Image" class="img-fluid"></a>
 	                            </div>
 	                        </div>
 	                        <!--/row-->
@@ -76,23 +56,41 @@
 	                    <!--/item-->
 	                    <div class="item">
 	                        <div class="row">
-	                            <div class="col-sm-6"><a href="#x"><img src="assets/img/masterplan/11.jpg" alt="Image" class="img-fluid"></a>
+	                            <div class="col-lg-6 col-sm-12 mt-2"><a href="#x"><img src="assets/img/masterplan/7.jpg" alt="Image" class="img-fluid"></a>
 	                            </div>
-	                            <div class="col-sm-6"><a href="#x"><img src="assets/img/masterplan/12.jpg" alt="Image" class="img-fluid"></a>
+	                            <div class="col-lg-6 col-sm-12 mt-2"><a href="#x"><img src="assets/img/masterplan/8.jpg" alt="Image" class="img-fluid"></a>
 	                            </div>
 	                        </div>
 	                        <!--/row-->
 	                    </div>
 	                    <!--/item-->
+	                    <div class="item">
+	                        <div class="row">
+	                            <div class="col-lg-6 col-sm-12 mt-2"><a href="#x"><img src="assets/img/masterplan/9.jpg" alt="Image" class="img-fluid"></a>
+	                            </div>
+	                            <div class="col-lg-6 col-sm-12 mt-2"><a href="#x"><img src="assets/img/masterplan/10.jpg" alt="Image" class="img-fluid"></a>
+	                            </div>
+	                        </div>
+	                        <!--/row-->
+	                    </div>
+	                    <!--/item-->
+	                     <!--<div class="item">
+	                        <div class="row">
+	                            <div class="col-lg-6 col-sm-12 mt-2"><a href="#x"><img src="assets/img/masterplan/11.jpg" alt="Image" class="img-fluid"></a>
+	                            </div>
+	                            <div class="col-lg-6 col-sm-12 mt-2"><a href="#x"><img src="assets/img/masterplan/12.jpg" alt="Image" class="img-fluid"></a>
+	                            </div>
+	                        </div>
+	                    </div>
+	                   	/item-->
 	                </div>
 	                <!--/carousel-inner--> 
-	                <a class="left carousel-control" href="#masterplan-1" data-slide="prev">‹</a>
-
-	                <a class="right carousel-control" href="#masterplan-1" data-slide="next">›</a>
+	                <a class="left carousel-control text-success" href="#masterplan-1" data-slide="prev"><i class="fas fa-caret-left fa-3x"></i></a>
+	                <a class="right carousel-control text-success" href="#masterplan-1" data-slide="next"><i class="fas fa-caret-right fa-3x"></i></a>
 	            </div>
 	            <!--/myCarousel-->        
 			</div>
-			<div class="offset-lg-2"></div>
+			<div class="offset-lg-1"></div>
 	</div>
 </div>
 

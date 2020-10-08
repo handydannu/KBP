@@ -3,7 +3,7 @@
 			<div class="col-lg-12 col-md-12 col-sm-12">
 
 				<div class="launching">
-					OUR RECENT GALLERY
+					GALLERY
 				</div>
 				<hr class="hr-launching">
 				<div class="launching-download">
@@ -26,9 +26,11 @@
 							<div class="carousel-item" data-slide-number="3">
 								<img src="assets/img/gallery/sky-top-4.jpg" class="d-block w-100" alt="..." data-type="image" data-toggle="lightbox" >
 							</div> 							 
-							<div class="carousel-item" data-slide-number="4">
-								<center><iframe src="https://www.youtube.com/embed/e9gCLJD896Y?ecver=1&amp;cc_load_policy=1&amp;iv_load_policy=3&amp;loop=1&amp;yt:stretch=16:9&amp;autohide=1&amp;color=red&amp;width=560&amp;width=560" width="720" height="480" allowtransparency="true" frameborder="0"><div style="text-align: center; margin: auto"></iframe></center>
-							</div> 
+							<!--<div class="carousel-item" data-slide-number="4" style="background-color: #fff">
+								<div class="embed-responsive embed-responsive-16by9" >
+								<iframe class="embed-responsive-item"  src="https://www.youtube.com/embed/bVlePvwrYHw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+								</div>
+							</div>-->
 						</div>
 					</div>
 					<!-- Carousel Navigation -->
@@ -48,22 +50,20 @@
 									<div id="carousel-selector-3" class="thumb col-4 col-sm-2 px-1 py-2" data-target="#myCarousel" data-slide-to="3">
 										<img src="assets/img/gallery/sky-top-4.jpg" class="img-fluid" alt="...">
 									</div>
-									<div id="carousel-selector-3" class="thumb col-4 col-sm-2 px-1 py-2" data-target="#myCarousel" data-slide-to="4">
+									<!--<div id="carousel-selector-3" class="thumb col-4 col-sm-2 px-1 py-2" data-target="#myCarousel" data-slide-to="4">
 										<img src="assets/img/gallery/sky-top-5.jpg" class="img-fluid" alt="...">
-									</div>
+									</div>-->
 								</div>
 							</div>
 						</div>
 					</div>
 				</div> <!-- end carousel bawah -->
 						
-					<a href="#myCarousel" class="carousel-control-prev" data-slide="prev">
-						<span class="carousel-control-prev-icon"></span>
-						<span class="sr-only" aria-hidden="true">Prev</span>
+					<a href="#myCarousel" class="carousel-control-prev text-success" data-slide="prev">
+						<i class="fas fa-caret-left fa-10x"></i>
 					</a>
-					<a href="#myCarousel" class="carousel-control-next" data-slide="next">
-						<span class="carousel-control-next-icon"></span>
-						<span class="sr-only" aria-hidden="true">Next</span>
+					<a href="#myCarousel" class="carousel-control-next text-success" data-slide="next">
+						<i class="fas fa-caret-right fa-10x"></i>
 					</a>
 			</div>
 		</div><!-- end slider -->

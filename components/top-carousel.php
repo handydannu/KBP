@@ -24,14 +24,13 @@
 				</div>
 			</div><!-- /.carousel-inner -->
 			
-			<a href="#main-carousel" class="carousel-control-prev" data-slide="prev">
-				<span class="carousel-control-prev-icon"></span>
-				<span class="sr-only" aria-hidden="true">Prev</span>
+			<a href="#main-carousel" class="carousel-control-prev text-success" data-slide="prev">
+				<i class="fas fa-caret-left fa-10x"></i>
 			</a>
-			<a href="#main-carousel" class="carousel-control-next" data-slide="next">
-				<span class="carousel-control-next-icon"></span>
-				<span class="sr-only" aria-hidden="true">Next</span>
+			<a href="#main-carousel" class="carousel-control-next text-success" data-slide="next">
+				<i class="fas fa-caret-right fa-10x"></i>
 			</a>
+
 		</div><!-- /.carousel -->
 
 <!-- 	</div>

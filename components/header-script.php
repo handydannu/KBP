@@ -36,7 +36,7 @@
     <link rel="stylesheet" type="text/css" href="assets/libraries/bootstrap/bootstrap.min.css">
 	
 	<!-- Font Icons -->
-	<link rel="stylesheet" type="text/css" href="assets/libraries/fonts/font-awesome.min.css">
+	<link rel="stylesheet" href="assets/fontawesome/css/all.css">
 	<link rel="stylesheet" type="text/css" href="assets/libraries/fonts/elegant-icons.css">
 
 	<!-- Library - OWL Carousel V.2.0 beta -->

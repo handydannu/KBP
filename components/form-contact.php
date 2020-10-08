@@ -1,8 +1,7 @@
 <div class="container back-two">
 			<div class="col-lg-12 col-sm-12 col-md-12 col-xs-12 text-center">
-			<h3>Informasi dan Pemesanan</h3>
-				<h1><strong>RUKO PANCAWARNA</strong></h1>
-				<h3 class="it">Tahap Baru di <em>Town Center</em><span class="kotbar"> Kota Baru Parahyangan</span></h3>
+				<h1><strong>SAYA TERTARIK</strong></h1>
+				<h3 class="it">RUKO <em>PANCAWARNA</em> TAHAP BARU di <span class="kotbar"> Kota Baru Parahyangan</span></h3>
 				<form action="send.php" method="post">
 					<label class="input-font">Name*</label>
 					<div class="form-group">
@@ -21,7 +20,7 @@
 		    			<input type="text" placeholder="Your message here" class="form-control" id="input_name" name="pesan" required>
 					</div>
 						<input type="submit" name="kirim" value="SEND MESSAGE" class="notifikasi">
-						<label style="font-weight: normal;font-size: 10px;">*Required Field</label>
+						<label style="font-weight: normal;font-size: 16px;">Mohon kesediaan Bapak/Ibu untuk dihubungi oleh Sales Representative Kota Baru Parahyangan </label>
 				</form>
 			</div>
     	</div>

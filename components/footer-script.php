@@ -43,7 +43,7 @@
 
 	<script type="text/javascript">$(document).ready(function() {
     $('#myCarousel').carousel({
-	interval: 10000
+	interval: 0
 	})
     
     $('#myCarousel').on('slid.bs.carousel', function() {

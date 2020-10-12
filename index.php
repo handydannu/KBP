@@ -16,6 +16,7 @@
 		<?php include 'components/header.php';?>
 
 	<div class="container tip">
+		
 		<?php include 'components/top-carousel.php';?>
 		
 		<!-- lead -->

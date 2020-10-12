@@ -1,9 +1,5 @@
 <div class="carousel slide" id="main-carousel" data-ride="carousel">
-	<!--<ol class="carousel-indicators">
-		<li data-target="#main-carousel" data-slide-to="0" class="active"></li>
-		<li data-target="#main-carousel" data-slide-to="1"></li>
-	</ol> /.carousel-indicators -->
-	
+
 	<div class="carousel-inner">
 		<div class="carousel-item active">
 			<img class="d-block img-fluid" src="assets/img/sky-top-3a.jpg" alt="">

@@ -27,7 +27,7 @@
     <!-- 4 thumbs -->
     <?php include 'components/thumb-below.php';?>
     <!-- button to top -->
-    <a id="mybutton" class="text-white" onclick="tekan()">SEBELUMNYA&nbsp;<i class="text-white fas fa-backward"></i>
+    <a id="mybutton" class="text-white" onclick="tekan()"><i class="text-white fas fa-backward"></i>&nbsp;SEBELUMNYA
     <!-- button to top 
     <a id="mybutton"><i class="text-white fas fa-chevron-up"></i></a>-->
     </a>

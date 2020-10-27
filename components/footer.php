@@ -10,6 +10,7 @@
 	</div>
 </aside>
 <div class="footer-title"> Marketing Gallery Kota Baru Parahyangan </div>
-<div class="footer-alamat"> Jalan Panyawangan Kav. 6B No. 6 Kota Baru Parahyangan <br>
-	(62-22) 680 3888 | <a href="https://kotabaruparahyangan.com/" class="footer-alamat">www.kotabaruparahyangan.com</a>
+<div class="footer-alamat"> Jalan Panyawangan Kav. 6B No. 6 Kota Baru Parahyangan 
+	(62-22) 680 3888 | <br> 
+	<a href="https://kotabaruparahyangan.com/" class="footer-alamat">www.kotabaruparahyangan.com</a>
 </div>

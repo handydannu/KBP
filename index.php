@@ -1,18 +1,22 @@
 <!DOCTYPE html>
+<html lang="id">
 <head>
 	<!-- the script -->
-	<?php include 'components/script-header.php';?>
+	<?php include 'components/scripts-header.php';?>
 </head>
 
 <body>
-	<!-- Main Container -->
-<div class="main-container">	
-		<!-- Header -->
-		<?php include 'components/header.php';?>
-	<div class="container tip">
-		<div class="row">		
-			<div class="col-lg-1"></div>
-					<div class="col-lg-10">
+
+<div class="container-fluid">
+	<div class="row">
+		
+	<div class="col-md-2"><!--leave empty --></div>
+		
+    <!-- main content here -->
+    <div class="col-md-8">
+		
+		<?php include 'components/navbar.php';?>
+
 		<?php include 'components/top-carousel.php';?>		
 		<!-- lead -->
 		<?php include 'components/leads.php';?>	
@@ -26,22 +30,18 @@
 		<?php include 'components/peta-lokasi.php';?>
 		<!-- slider -->		
 		<?php include 'components/bot-carousel.php';?>
-</div>
-			<div class="col-lg-1"></div>
-	</div>
-	</div>
 
-    <a id="mybutton" class="text-white" onclick="tekan()" style="font-size: 16px;">SELANJUTNYA&nbsp;<i class="text-white fas fa-forward"></i>
+		<a id="mybutton" class="text-white" onclick="tekan()" style="font-size: 16px;">SELANJUTNYA&nbsp;<i class="text-white fas fa-forward"></i></a>
+	</div>
+	<div class="col-md-2"></div>
 
-</div><!-- Main Container -->	
-		
-	<footer class="footer-main no-padding">
-		<!-- Bottom Footer -->
-		<div class="container-fluid no-padding bottom-footer">
-			<?php include 'components/footer.php';?>
-		</div><!-- Bottom Footer /- -->
-	</footer>
+	</div>
+</div>	
+  <!-- footer row -->
+  <div div id="footer" class="container-fluid bg-footer-kbp text-center mt-2">
+		<?php include 'components/footer.php';?>
+  </div><!-- /footer row -->
 	<!-- the script -->
-	<?php include 'components/script-footer.php';?>	
+	<?php include 'components/scripts-footer.php';?>	
 </body>
 </html>

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="id">
   <head>
      <?php include 'components/scripts-header.php';?>
   </head>

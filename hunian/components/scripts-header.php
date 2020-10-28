@@ -7,19 +7,12 @@
 <meta name="keywords" content="Hunian, Kota Baru Parahyangan, kota baru, parahyangan, Hunian kota baru, Hunian bandung, Hunian dijual, town center, Hunian kotbar, Hunian parahyangan">
 <meta name="author" content="Ayo Media Network">
 <meta name="copyright" content="Ayo Media Network">
-
-<script src="https://kit.fontawesome.com/07c3763c4b.js" crossorigin="anonymous"></script>
-<!-- Bootstrap files (jQuery first, then Popper.js, then Bootstrap JS) -->
-<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
-<link href="assets/css/kbp-hunian.css" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet"> 
-
-<!-- Standard Favicon -->
 <link rel="icon" type="assets/image/x-icon" href="assets/img/logo.png" />
 
-<!--[if lt IE 9]>
-<script src="js/html5/respond.min.js"></script>
-<![endif]-->
+<link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet"> 
+<script src="https://kit.fontawesome.com/07c3763c4b.js" crossorigin="anonymous"></script>
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+<link href="assets/css/kbp-hunian.css" rel="stylesheet">
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-180424658-1"></script>

@@ -18,9 +18,10 @@
 	<div class="row">
 
 	<div class="col-lg-1">
-            <a href="#masterplan-1" class="carousel-control-prev" data-slide="prev">
-                <i class="fas fa-caret-left fa-10x" style="color: #038A7C"></i>
-            </a></div>
+        <a href="#masterplan-1" class="carousel-control-prev" data-slide="prev">
+        <i class="fas fa-caret-left fa-10x" style="color: #038A7C"></i>
+        </a>
+    </div>
 
 	<div class="col-lg-10 mt-2">
         <div class="carousel slide" id="masterplan-1" data-ride="carousel">
@@ -77,9 +78,10 @@
         </div><!-- /.carousel -->
     </div><!--/myCarousel-->  
 	<div class="col-lg-1">
-            <a href="#masterplan-1" class="carousel-control-next" data-slide="next">
-                <i class="fas fa-caret-right fa-10x" style="color: #038A7C"></i>
-            </a></div>
+        <a href="#masterplan-1" class="carousel-control-next" data-slide="next">
+            <i class="fas fa-caret-right fa-10x" style="color: #038A7C"></i>
+        </a>
+    </div>
 </div>
 </div>
 

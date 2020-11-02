@@ -22,6 +22,10 @@
     <?php include 'components/slider-mid-a.php';?>
     <!-- slider mid b -->
     <?php include 'components/slider-mid-b.php';?>
+    <!-- video -->
+    <?php include 'components/videos.php';?>
+    <!-- arsitektur -->
+    <?php include 'components/arsitektur.php';?>
     <!-- 4 thumbs -->
     <?php include 'components/callme.php';?>
     <!-- 4 thumbs -->

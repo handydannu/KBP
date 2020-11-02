@@ -1,4 +1,4 @@
-<script src="assets/js/jquery.min.js"></script> 
+<!-- <script src="assets/js/jquery.min.js"></script>  -->
 <script src="assets/js/popper.min.js"></script> 
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js" type="text/javascript"></script>
 <script>
@@ -41,5 +41,33 @@ function tekan() {
             $(this).siblings(':first').children(':first-child').clone().appendTo($(this));
         }
     });
+});
+</script>
+
+<script>
+	$(document).ready(function(){
+  $(".fancybox").fancybox({
+        openEffect: "none",
+        closeEffect: "none",
+        helpers : {
+        title: {
+        type: 'outside'
+        }
+    }
+    });
+
+  $(".fancybox")
+    .attr('rel', 'gallery')
+    .fancybox({
+        padding : 0
+    });
+    
+    $(".zoom").hover(function(){
+		
+		$(this).addClass('transition');
+	}, function(){
+        
+		$(this).removeClass('transition');
+	});
 });
 </script>

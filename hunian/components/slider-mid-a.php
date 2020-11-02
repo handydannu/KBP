@@ -7,7 +7,41 @@
   </p>
 </div>
 
-<div id="slide-mid-a" class="carousel slide" data-ride="carousel">
+<div class="row">
+
+
+  <div class="col mx-1">
+    <a href="assets/img/lake/lake-1.jpg" class="fancybox" rel="ligthbox" data-fancybox="images" data-caption="My caption">
+    <img class="img-fluid zoom" src="assets/img/lake/cov-1.jpg">          
+    </a>  
+  </div>
+
+  <div class="col mx-1">
+    <a href="assets/img/lake/lake-5.jpg" class="fancybox" rel="ligthbox" data-fancybox="images" data-caption="My caption">
+    <img class="img-fluid zoom" src="assets/img/lake/cov-5.jpg">
+    </a>
+  </div>
+
+  <div class="col mx-1">
+    <a href="assets/img/lake/lake-4.jpg" class="fancybox" rel="ligthbox" data-fancybox="images" data-caption="My caption">
+    <img class="img-fluid zoom" src="assets/img/lake/cov-3.jpg">
+    </a>
+  </div>
+
+  <div class="col mx-1">
+    <a href="assets/img/lake/lake-6.jpg" class="fancybox" rel="ligthbox" data-fancybox="images" data-caption="My caption">
+    <img class="img-fluid zoom" src="assets/img/lake/cov-4.jpg">
+    </a>
+  </div>
+
+  <div class="col mx-1">
+    <a href="assets/img/lake/lake-2.jpg" class="fancybox" rel="ligthbox" data-fancybox="images" data-caption="My caption">
+    <img class="img-fluid zoom" src="assets/img/lake/cov-2.jpg">
+    </a>
+  </div>
+
+</div>
+<!-- <div id="slide-mid-a" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active" data-slide-number="0">
       <img src="assets/img/lake/0.jpg" class="d-block w-100" data-type="image" data-toggle="lightbox">
@@ -24,7 +58,6 @@
   </div>
 </div>
 
-<!-- Carousel Navigation -->
 <div id="carousel-thumbs" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
@@ -52,4 +85,4 @@
   <a class="carousel-control-next" href="#slide-mid-a" role="button" data-slide="next">
     <i class="fas fa-caret-right fa-5x" style="color: #b2b2b2"></i>
   </a>
-</div>
+</div> -->

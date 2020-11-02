@@ -10,9 +10,11 @@
 <link rel="icon" type="assets/image/x-icon" href="assets/img/logo.png" />
 
 <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet"> 
+<link href="https://fonts.googleapis.com/css2?family=Oswald&display=swap" rel="stylesheet"> 
 <script src="https://kit.fontawesome.com/07c3763c4b.js" crossorigin="anonymous"></script>
 <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
 <link href="assets/css/kbp-simakancana.css" rel="stylesheet">
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-180424658-1"></script>
@@ -23,3 +25,6 @@
 
 	gtag('config', 'UA-180424658-1');
 </script>
+
+ <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css" media="screen">
+<script src="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>

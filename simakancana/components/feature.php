@@ -8,7 +8,7 @@
   <div class="card-body">
     <h3 class="card-title">Special title treatment</h3>
     <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
+    <a href="#" class="btn tombolku font-weight-bold text-uppercase">read more&nbsp;<i class="fas fa-arrow-right"></i></a>
   </div>
 </div>
 </div>
@@ -18,7 +18,7 @@
   <div class="card-body">
     <h3 class="card-title">Special title treatment</h3>
     <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
+    <a href="#" class="btn tombolku font-weight-bold text-uppercase">read more&nbsp;<i class="fas fa-arrow-right"></i></a>
   </div>
 </div>
 </div>
@@ -28,7 +28,7 @@
   <div class="card-body">
     <h3 class="card-title">Special title treatment</h3>
     <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
+    <a href="#" class="btn tombolku font-weight-bold text-uppercase">read more&nbsp;<i class="fas fa-arrow-right"></i></a>
   </div>
 </div>
 </div>

@@ -1,6 +1,6 @@
 <div class="row">
   <div class="col-lg-6 col-md-6 col-sm-12">
-     <a href="#">
+     <a href="#" class="open-album" data-open-id="album-1">
      <div class="hvrbox">
         <img src="assets/img/pranala-asc/ars-1.jpg" class="hvrbox-layer_bottom">
         <div class="hvrbox-layer_top">
@@ -14,11 +14,17 @@
           </div>
         </div>
       </div>  
-      </a>  
+      </a>        
+      
+      <a rel="album-1" class="image-show" href="assets/img/pranala-asc/1.jpg"></a>
+      <a rel="album-1" class="image-show" href="assets/img/pranala-asc/2.jpg"></a>
+      <a rel="album-1" class="image-show" href="assets/img/pranala-asc/3.jpg"></a>
+      <a rel="album-1" class="image-show" href="assets/img/pranala-asc/4.jpg"></a>
+      <a rel="album-1" class="image-show" href="assets/img/pranala-asc/5.jpg"></a>
   </div>
 
   <div class="col-lg-6 col-md-6 col-sm-12">
-     <a href="#">
+    <a href="#" class="open-album" data-open-id="album-2">
      <div class="hvrbox">
         <img src="assets/img/andra-martin/ars-2.jpg" class="hvrbox-layer_bottom">
         <div class="hvrbox-layer_top">
@@ -33,5 +39,13 @@
         </div>
       </div>  
       </a>  
+
+      <a rel="album-2" class="image-show" href="assets/img/andra-martin/1.jpg"></a>
+      <a rel="album-2" class="image-show" href="assets/img/andra-martin/2.jpg"></a>
+      <a rel="album-2" class="image-show" href="assets/img/andra-martin/3.jpg"></a>
+      <a rel="album-2" class="image-show" href="assets/img/andra-martin/4.jpg"></a>
+      <a rel="album-2" class="image-show" href="assets/img/andra-martin/5.jpg"></a>
+
   </div>
 </div>
+

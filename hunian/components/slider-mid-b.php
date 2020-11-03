@@ -8,8 +8,8 @@
     
   </p>
 </div>
-
-<div id="slide-mid-b" class="carousel slide" data-ride="carousel">
+<img class="img-fluid d-block w-100" src="assets/img/park/5.jpg">
+<!-- <div id="slide-mid-b" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active" data-slide-number="0">
       <img src="assets/img/park/0.jpg" class="d-block w-100" data-type="image" data-toggle="lightbox">
@@ -38,7 +38,7 @@
   <a class="carousel-control-next" href="#slide-mid-b" role="button" data-slide="next">
     <i class="fas fa-caret-right fa-5x" style="color: #b2b2b2"></i>
   </a>
-</div>
+</div> -->
 
 <!-- Carousel Navigation 
 <div id="carousel-thumbs" class="carousel slide" data-ride="carousel">

@@ -7,10 +7,11 @@
 <meta name="keywords" content="Hunian, Kota Baru Parahyangan, kota baru, parahyangan, Hunian kota baru, Hunian bandung, Hunian dijual, town center, Hunian kotbar, Hunian parahyangan">
 <meta name="author" content="Ayo Media Network">
 <meta name="copyright" content="Ayo Media Network">
-<link rel="icon" type="assets/image/x-icon" href="assets/img/logo.png" />
+<link rel="icon" type="assets/image/x-icon" href="assets/img/eco-logo.png" />
 
-<link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet"> 
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400&display=swap" rel="stylesheet">  
 <link href="https://fonts.googleapis.com/css2?family=Oswald&display=swap" rel="stylesheet"> 
+
 <script src="https://kit.fontawesome.com/07c3763c4b.js" crossorigin="anonymous"></script>
 <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
 <link href="assets/css/kbp-simakancana.css" rel="stylesheet">

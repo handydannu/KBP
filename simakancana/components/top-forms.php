@@ -3,15 +3,17 @@
     <div class="container text-center text-md-left" data-aos="fade-up">
       <div class="row">
 
-      <div class="col-md-1"></div>
-      <div class="col-md-6">
+      <div class="col-md-1 col-sm-1"></div>
+      <div class="col-md-6 col-sm-6 mt-5">
         <section class="mt-3">
-          <h1>Welcome to <span>Simkancana</span></h1>
-          <h2>Hunian terbaik ada di Kota Baru Parahyangan</h2>
-          <a href="#" class="btn tombolku font-weight-bold text-uppercase">read more&nbsp;<i class="fas fa-arrow-right"></i></a>
+          <h1>NEW HOUSE TYPE <br>RUMAH SIMAKANCANA</h1>
+
+          <h2><img src="assets/img/eco-logo.png" class="img-fluid minilogo">&nbsp;Eco Smart Home</h2>
+          <h2 class="mt-min20">Serene Living in The Beauty of Nature</h2>
+          <!-- <a href="#" class="btn tombolku font-weight-bold text-uppercase">read more&nbsp;<i class="fas fa-arrow-right"></i></a> -->
         </section>
       </div>
-      <div class="col-md-4">
+      <div class="col-md-4 col-sm-4 mt-3">
 
         <div class="kotak-biru shadow-lg">
           <h5>Welcome to</h3>

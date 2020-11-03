@@ -20,8 +20,8 @@
 		<?php include 'components/top-carousel.php';?>		
 		<!-- lead -->
 		<?php include 'components/leads.php';?>	
-		<!-- form contact-->
-		<?php include 'components/form-contact.php';?>	
+		<!-- form contact
+		<?php //include 'components/form-contact.php';?>	-->
 		<!-- video -->
 		<?php include 'components/videos.php';?>
 		<!-- after lead -->

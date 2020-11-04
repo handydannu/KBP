@@ -17,8 +17,9 @@
     <!-- slider-top -->
     <?php include 'components/top-forms.php';?>
     <?php include 'components/feature.php';?>
+    <?php include 'components/download.php';?>
     <?php include 'components/galeri.php';?>
-    <?php include 'components/mini-galeri.php';?>
+    <!-- <?php include 'components/mini-galeri.php';?> -->
     <!-- button to top -->
     <a id="mybutton" class="text-white" onclick="tekan()"><i class="text-white fas fa-backward"></i>&nbsp;SEBELUMNYA
     <!-- button to top 

@@ -5,8 +5,6 @@
 </div>
 
 <div class="row">
-
-
 	<div class="col-lg-12 mt-2">
         <div class="carousel slide" id="fasilitas-lain" data-ride="carousel">
             <div class="carousel-inner">
@@ -127,4 +125,4 @@
         </div><!-- /.carousel -->
     </div><!--/myCarousel-->  
 </div>
-</div>
+<hr>

@@ -14,6 +14,7 @@
 <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
 <link href="assets/css/kbp-hunian.css" rel="stylesheet">
 <link type="text/css" rel="stylesheet" href="assets/css/hover-box.css">
+<link type="text/css" rel="stylesheet" href="assets/css/hover.css">
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

@@ -18,6 +18,8 @@
     <?php include 'components/slider-top.php';?>
     <!-- text-top -->
     <?php include 'components/text-top.php';?>
+    <!-- form -->
+    <?php include 'components/form.php';?>
     <!-- slider mid a -->
     <?php include 'components/slider-mid-a.php';?>
     <!-- slider mid b -->
@@ -30,6 +32,8 @@
     <?php include 'components/callme.php';?>
     <!-- 4 thumbs -->
     <?php include 'components/thumb-below.php';?>
+    <!-- 4 thumbs -->
+    <?php include 'components/peta-ruko.php';?>
     <!-- button to top -->
     <a id="mybutton" class="text-white" onclick="tekan()"><i class="text-white fas fa-backward"></i>&nbsp;SEBELUMNYA
     <!-- button to top 

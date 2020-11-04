@@ -2,7 +2,7 @@
 
 <div class="text-center">
   <h1 class="text-uppercase">
-    Rumah Tepi Taman, Tatar Wangsakerta 2
+    Rumah Tepi Taman<br> Tatar Wangsakerta 2
   </h1>
   <p>
     

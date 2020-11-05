@@ -164,6 +164,42 @@ input[type="text"]
   visibility: visible;
 }
 
+/* to top */
+#mybutton2 {
+  display: inline-block;
+  background-color: #0C79BF;
+  width: 150px;
+  height: 50px;
+  text-align: center;
+  border-radius: 4px;
+  position: fixed;
+  bottom: 50%;
+  right: 10px;
+  transition: background-color .3s, 
+    opacity .5s, visibility .5s;
+  opacity: 0;
+  visibility: hidden;
+  z-index: 1000;
+}
+#mybutton2::after {
+  content: "";
+  font-weight: normal;
+  font-style: normal;
+  line-height: 50px;
+  color: #fff;
+}
+#mybutton2:hover {
+  cursor: pointer;
+  background-color: #038A7C;
+}
+#mybutton2:active {
+  background-color: #555;
+}
+#mybutton2.lihat {
+  opacity: 1;
+  visibility: visible;
+}
+
 /* img hover 4 thumb */
 .hovereffect {
   width: 100%;

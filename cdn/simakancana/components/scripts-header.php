@@ -7,7 +7,7 @@
 <meta name="keywords" content="Hunian, Kota Baru Parahyangan, kota baru, parahyangan, Hunian kota baru, Hunian bandung, Hunian dijual, Simakancana town center, Hunian kotbar, Hunian parahyangan Simakancana">
 <meta name="author" content="Ayo Media Network">
 <meta name="copyright" content="Ayo Media Network">
-<link rel="icon" type="assets/image/x-icon" href="https://res.cloudinary.com/dansprogramming/image/upload/v1604546770/KBP_SIMAKANCANA/IMG/logo.png" />
+<link rel="icon" type="assets/image/x-icon" href="https://res.cloudinary.com/dansprogramming/image/upload/v1604545451/KBP_HUNIAN/IMG/logo.png" />
 
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400&display=swap" rel="stylesheet">  
 <link href="https://fonts.googleapis.com/css2?family=Oswald&display=swap" rel="stylesheet"> 

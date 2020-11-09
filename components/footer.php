@@ -4,7 +4,7 @@
       <a class="mr-2 ml-2 footer-medsos" target="_blank" href="https://kotabaruparahyangan.com/"><i class="fas fa-globe-americas fa-2x"></i></a> 
       <a class="mr-2 ml-2 footer-medsos" target="_blank" href="https://www.instagram.com/kotabaruparahyangan/"><i class="fab fa-instagram fa-2x"></i></a> 
       <a class="mr-2 ml-2 footer-medsos" target="_blank" href="https://www.youtube.com/channel/UCnFeZYM223X9N06dp7Fs7oQ"><i class="fab fa-youtube fa-2x"></i></a> 
-      <a class="mr-2 ml-2 footer-medsos" target="_blank" href="https://wa.me/+6287722683888?text=Saya%20tertarik%20dengan%20ruko%20town%20centeryang%20dijual"><i class="fab fa-whatsapp fa-2x"></i></a>
+      <a class="mr-2 ml-2 footer-medsos" target="_blank" href="https://wa.me/+6287722683888?text=Saya tertarik dengan Produk Ruko di Kota Baru Parahyangan"><i class="fab fa-whatsapp fa-2x"></i></a>
   </div>        
 </div>
 <hr class="bg-white">

@@ -105,6 +105,13 @@ input[type="text"]
 .carousel-control-next {
   width: 50px;
 }
+.caption-bg{
+  background-color:rgb(99, 99, 99,.6);
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding-bottom: 30px;
+}
 
 /*nav area */
 .menu-sticky {
@@ -137,7 +144,7 @@ input[type="text"]
   text-align: center;
   border-radius: 4px;
   position: fixed;
-  bottom: 50%;
+  bottom: 20%;
   left: 10px;
   transition: background-color .3s, 
     opacity .5s, visibility .5s;
@@ -173,7 +180,7 @@ input[type="text"]
   text-align: center;
   border-radius: 4px;
   position: fixed;
-  bottom: 50%;
+  bottom: 20%;
   right: 10px;
   transition: background-color .3s, 
     opacity .5s, visibility .5s;

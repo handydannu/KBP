@@ -79,7 +79,7 @@ body{
   text-align: center;
   border-radius: 4px;
   position: fixed;
-  bottom: 50%;
+  bottom: 20%;
   left: 10px;
   transition: background-color .3s, 
     opacity .5s, visibility .5s;
@@ -112,7 +112,7 @@ body{
 #hero {
   width: 100%;
   height: 720px;
-  background: url("https://res.cloudinary.com/dansprogramming/image/upload/v1604395426/KBP_simakancana/img/header-simakancana.jpg") center center;
+  background: url("https://res.cloudinary.com/dansprogramming/image/upload/v1604894052/KBP_SIMAKANCANA/IMG/Simakancana.jpg") center center;
   background-size: cover;
   position: relative;
   margin-top: 160px;

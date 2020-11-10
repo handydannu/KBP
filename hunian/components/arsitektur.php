@@ -104,7 +104,7 @@
             <h2>Desain Arsitektur oleh </h2>
             <h1>Pranala ASC</h1>
           </div>
-        </div>
+        </div> 
         <div class="carousel-item">
           <img class="d-block w-100 img-fluid" src="assets/img/pranala-asc/3.jpg">
           <div class="carousel-caption d-none d-md-block caption-bg">

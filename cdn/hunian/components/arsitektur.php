@@ -14,20 +14,7 @@
           <div class="carousel-caption d-none d-md-block caption-bg">
             <h2>Desain Arsitektur oleh </h2>
             <h1>Andra Matin</h1>
-          </div><!-- 
-         <div class="hvrbox">
-            <img src="https://res.cloudinary.com/dansprogramming/image/upload/v1604545508/KBP_HUNIAN/IMG/andra-martin/1.jpg" class="hvrbox-layer_bottom img-fluid">
-            <div class="hvrbox-layer_top">
-              <div class="hvrbox-text">
-                <h2><span class="font-weight-bold">Desain Arsitektur</span> <br>
-                  oleh <span class="font-weight-bold">ANDRA MARTIN</span>
-                </h2>            
-                <h3 class="font-weight-bold" style="color: rgb(211, 211, 211);">Slide For More
-                </h3>
-                <div class="hvrbox-text_mobile">SLIDE FOR MORE</div>
-              </div>
-            </div>
-          </div>   -->
+          </div>
         </div>
         <div class="carousel-item">
           <img class="d-block w-100 img-fluid" src="https://res.cloudinary.com/dansprogramming/image/upload/v1604545503/KBP_HUNIAN/IMG/andra-martin/2.jpg">
@@ -83,20 +70,7 @@
           <div class="carousel-caption d-none d-md-block caption-bg">
             <h2>Desain Arsitektur oleh </h2>
             <h1>Pranala ASC</h1>
-          </div><!-- 
-         <div class="hvrbox">
-            <img src="https://res.cloudinary.com/dansprogramming/image/upload/v1604545524/KBP_HUNIAN/IMG/pranala-asc/1.jpg" class="hvrbox-layer_bottom img-fluid">
-            <div class="hvrbox-layer_top">
-              <div class="hvrbox-text">
-                <h2><span class="font-weight-bold">Desain Arsitektur</span> <br>
-                  oleh <span class="font-weight-bold">PRANALA ASC</span>
-                </h2>            
-                <h3 class="font-weight-bold" style="color: rgb(211, 211, 211);">Slide For More
-                </h3>
-                <div class="hvrbox-text_mobile">SLIDE FOR MORE</div>
-              </div>
-            </div>
-          </div>   -->
+          </div>
         </div>
         <div class="carousel-item">
           <img class="d-block w-100 img-fluid" src="https://res.cloudinary.com/dansprogramming/image/upload/v1604545519/KBP_HUNIAN/IMG/pranala-asc/2.jpg">
@@ -106,7 +80,7 @@
           </div>
         </div>
         <div class="carousel-item">
-          <img class="d-block w-100 img-fluid" src="https://res.cloudinary.com/dansprogramming/image/upload/v1604545518/KBP_HUNIAN/IMG/pranala-asc/3.jpg">
+          <img class="d-block w-100 img-fluid" src="https://res.cloudinary.com/dansprogramming/image/upload/v1604997663/KBP_HUNIAN/IMG/pranala-asc/3.jpg">
           <div class="carousel-caption d-none d-md-block caption-bg">
             <h2>Desain Arsitektur oleh </h2>
             <h1>Pranala ASC</h1>

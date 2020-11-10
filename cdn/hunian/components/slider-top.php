@@ -1,12 +1,12 @@
 <div class="carousel slide" id="slider-top" data-ride="carousel" style="margin-top: 160px">
 	<div class="carousel-inner">
 		<div class="carousel-item active">
-			<img class="d-block img-fluid" src="https://res.cloudinary.com/dansprogramming/image/upload/v1604545451/KBP_HUNIAN/IMG/sky-top-3a.jpg">
+			<img class="d-block img-fluid" src="https://res.cloudinary.com/dansprogramming/image/upload/v1604997513/KBP_HUNIAN/IMG/sky-top-3a.jpg">
 			<div class="carousel-caption d-none d-md-block">
 			</div>
 		</div>
 		<div class="carousel-item">
-			<img src="https://res.cloudinary.com/dansprogramming/image/upload/v1604545455/KBP_HUNIAN/IMG/sky-top-4b.jpg" class="d-block img-fluid">
+			<img src="https://res.cloudinary.com/dansprogramming/image/upload/v1604997513/KBP_HUNIAN/IMG/sky-top-4b.jpg" class="d-block img-fluid">
 			<div class="carousel-caption d-none d-md-block">
 			</div>
 		</div>

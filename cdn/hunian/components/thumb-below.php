@@ -12,47 +12,39 @@
                     <div class="row no-gutters">
 
 						<div class="col-md-3">
-	                    	<a href="https://parahyangangolf.com/2017/index.html" target="_blank">
 								<div class="hovereffect">
 							        <img class="img-fluid" src="https://res.cloudinary.com/dansprogramming/image/upload/v1604545566/KBP_HUNIAN/IMG/facility/1.jpg">
 							        <div class="overlay">
 							          <h1>PARAHYANGAN GOLF</h1>
 							        </div>
 						      	</div>
-						  	</a>
 						</div>			
 		
 						<div class="col-md-3">
-	                    	<a href="https://www.masonpinehotel.com/index.php" target="_blank">
 								<div class="hovereffect">
 							        <img class="img-fluid" src="https://res.cloudinary.com/dansprogramming/image/upload/v1604545567/KBP_HUNIAN/IMG/facility/2.jpg">
 							        <div class="overlay">
 							          <h1>MASON PINE HOTEL</h1>
 							        </div>
 						      	</div>
-						  	</a>
 						</div>
 
 						<div class="col-md-3">
-	                    	<a href="https://kotabaruparahyangan.com/fasilitas/detail/19/bumi-pancasona-sport-club" target="_blank">
 								<div class="hovereffect">
 							        <img class="img-fluid" src="https://res.cloudinary.com/dansprogramming/image/upload/v1604545568/KBP_HUNIAN/IMG/facility/3.jpg">
 							        <div class="overlay">
 							          <h1>BUMI PANCASONA</h1>
 							        </div>
 						      	</div>
-						  	</a>
 						</div>
 
 						<div class="col-md-3">
-	                    	<a href="https://kotabaruparahyangan.com/fasilitas/detail/27/ikea" target="_blank">
 								<div class="hovereffect">
 							        <img class="img-fluid" src="https://res.cloudinary.com/dansprogramming/image/upload/v1604545565/KBP_HUNIAN/IMG/facility/4.jpg">
 							        <div class="overlay">
 							          <h1>IKEA STORE</h1>
 							        </div>
 						      	</div>
-						  	</a>
 						</div>
 					</div> <!-- first item -->
                 </div>
@@ -60,47 +52,39 @@
                 <div class="carousel-item">
                   <div class="row no-gutters">
 						<div class="col-md-3">
-	                    	<a href="https://kotabaruparahyangan.com/fasilitas/detail/25/water-theme-park" target="_blank">
 								<div class="hovereffect">
 							        <img class="img-fluid" src="https://res.cloudinary.com/dansprogramming/image/upload/v1604545565/KBP_HUNIAN/IMG/facility/5.jpg">
 							        <div class="overlay">
 							          <h1>WATER THEME PARK</h1>
 							        </div>
 						      	</div>
-						  	</a>
 						</div>			
 		
 						<div class="col-md-3">
-	                    	<a href="#" target="_blank">
 								<div class="hovereffect">
 							        <img class="img-fluid" src="https://res.cloudinary.com/dansprogramming/image/upload/v1604545566/KBP_HUNIAN/IMG/facility/6.jpg">
 							        <div class="overlay">
 							          <h1>LIFESTYLE MALL</h1>
 							        </div>
 						      	</div>
-						  	</a>
 						</div>
 
 						<div class="col-md-3">
-	                    	<a href="https://kotabaruparahyangan.com/fasilitas/detail/19/bumi-pancasona-sport-club" target="_blank">
 								<div class="hovereffect">
 							        <img class="img-fluid" src="https://res.cloudinary.com/dansprogramming/image/upload/v1604545568/KBP_HUNIAN/IMG/facility/3.jpg">
 							        <div class="overlay">
 							          <h1>BUMI PANCASONA</h1>
 							        </div>
 						      	</div>
-						  	</a>
 						</div>
 
 						<div class="col-md-3">
-	                    	<a href="https://kotabaruparahyangan.com/fasilitas/detail/27/ikea" target="_blank">
 								<div class="hovereffect">
 							        <img class="img-fluid" src="https://res.cloudinary.com/dansprogramming/image/upload/v1604545565/KBP_HUNIAN/IMG/facility/4.jpg">
 							        <div class="overlay">
 							          <h1>IKEA STORE</h1> 
 							        </div>
 						      	</div>
-						  	</a>
 						</div>
 
 					</div> <!-- second item -->

@@ -4,9 +4,8 @@
             KAWASAN TOWN CENTER KOTA BARU PARAHYANGAN
         </h1>
         <img class="img-fluid mt-3" src="https://res.cloudinary.com/dansprogramming/image/upload/v1604543699/KBP_RUKO/IMG/sky-top-mov-res.gif"> 
-
     </div>
-    </div>
+</div>
 
 <div class="row">
 	<div class="col-lg-1">
@@ -59,7 +58,6 @@
                     </div>
                 </div>
             </div><!-- /.carousel-inner -->
-
         </div><!-- /.carousel -->
     </div><!--/myCarousel-->  
 
@@ -71,4 +69,4 @@
 <!-- peta lokasi -->
 </div>
 <hr>
-<img class="img-fluid" src="https://res.cloudinary.com/dansprogramming/image/upload/v1604543691/KBP_RUKO/IMG/map-location.jpg">  
+<img class="img-fluid" src="https://res.cloudinary.com/dansprogramming/image/upload/v1604978066/KBP_HUNIAN/IMG/key-map.jpg">  

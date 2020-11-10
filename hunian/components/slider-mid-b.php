@@ -8,9 +8,9 @@
     
   </p>
 </div>
-<img class="img-fluid d-block w-100" src="assets/img/park/5.jpg">
-<!-- <div id="slide-mid-b" class="carousel slide" data-ride="carousel">
-  <div class="carousel-inner">
+<!-- <img class="img-fluid d-block w-100" src="assets/img/park/5.jpg"> -->
+<div id="slide-mid-b" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner"><!-- 
     <div class="carousel-item active" data-slide-number="0">
       <img src="assets/img/park/0.jpg" class="d-block w-100" data-type="image" data-toggle="lightbox">
     </div>
@@ -25,20 +25,23 @@
     </div>
     <div class="carousel-item" data-slide-number="4">
       <img src="assets/img/park/4.jpg" class="d-block w-100" data-type="image" data-toggle="lightbox">
-    </div>
-    <div class="carousel-item" data-slide-number="5">
+    </div> -->
+    <div class="carousel-item active" data-slide-number="5">
       <img src="assets/img/park/5.jpg" class="d-block w-100" data-type="image" data-toggle="lightbox">
+    </div>    
+    <div class="carousel-item" data-slide-number="5">
+      <img src="assets/img/park/6.jpg" class="d-block w-100" data-type="image" data-toggle="lightbox">
     </div>
   </div>
 
   
   <a class="carousel-control-prev" href="#slide-mid-b" role="button" data-slide="prev">
-    <i class="fas fa-caret-left fa-5x" style="color: #b2b2b2;"></i>
+    <i class="fas fa-caret-left fa-5x" style="color: #038A7C;"></i>
   </a>
   <a class="carousel-control-next" href="#slide-mid-b" role="button" data-slide="next">
-    <i class="fas fa-caret-right fa-5x" style="color: #b2b2b2"></i>
+    <i class="fas fa-caret-right fa-5x" style="color: #038A7C"></i>
   </a>
-</div> -->
+</div>
 
 <!-- Carousel Navigation 
 <div id="carousel-thumbs" class="carousel slide" data-ride="carousel">

@@ -1,7 +1,7 @@
 <hr>
 <div class="col-lg-12 col-sm-12 col-md-12 col-xs-12 text-center rounded-0 jumbotron shadow-sm">
-	<h4><strong>SAYA TERTARIK</strong></h4>
-	<h4 class="it">HUNIAN NYAMAN di <span class="kotbar-font"> Kota Baru Parahyangan</span></h4>
+	<h3><strong>SAYA TERTARIK</strong></h3>
+	<h4 class="it">HUNIAN TEPI DANAU/TAMAN di <span class="kotbar-font"> Kota Baru Parahyangan</span></h4>
 	<form action="send.php" method="post">
 		<label class="">Name</label>
 		<div class="form-group">

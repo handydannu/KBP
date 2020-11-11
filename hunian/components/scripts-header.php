@@ -16,6 +16,7 @@
 <link type="text/css" rel="stylesheet" href="assets/css/hover-box.css">
 <link type="text/css" rel="stylesheet" href="assets/css/hover.css">
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-180424658-1"></script>

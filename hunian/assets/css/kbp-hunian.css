@@ -111,6 +111,32 @@ input[type="text"]
   right: 0;
   bottom: 0;
   padding-bottom: 30px;
+  z-index: 1;
+}
+.carousel-caption h1 {
+    font-weight: bold;
+    font-size: 1.2em; /* small size since this is the default in Bootstrap */
+    text-align:center;
+}
+.carousel-caption h2 {
+    font-size: 1em; /* small size since this is the default in Bootstrap */
+    text-align:center;
+}
+@media (min-width: 576px) { // Small devices (landscape phones, 576px and up)
+  .carousel-caption h1 { font-size: 1.3em;}
+  .carousel-caption h2 {font-size: 1.1em;}  
+}
+@media (min-width: 768px) {// Medium devices (tablets, 768px and up)
+  .carousel-caption h1 { font-size: 1.4em;}
+  .carousel-caption h2 {font-size: 1.2em;}  
+}
+@media (min-width: 992px) { // Large devices (desktops, 992px and up)
+  .carousel-caption h1 { font-size: 1.5em;}
+  .carousel-caption h2 {font-size: 1.3em;}  
+}
+@media (min-width: 1200px) { // Extra large devices (large desktops, 1200px and up)
+  .carousel-caption h1 { font-size: 1.6em;}
+  .carousel-caption h2 {font-size: 1.4em;}  
 }
 
 /*nav area */
@@ -139,24 +165,25 @@ input[type="text"]
 #mybutton {
   display: inline-block;
   background-color: #0C79BF;
-  width: 150px;
-  height: 50px;
+  width: 100px;
+  height: 30px;
   text-align: center;
   border-radius: 4px;
   position: fixed;
   bottom: 20%;
   left: 10px;
   transition: background-color .3s, 
-    opacity .5s, visibility .5s;
+  opacity .5s, visibility .5s;
   opacity: 0;
   visibility: hidden;
   z-index: 1000;
+  font-size: 10px;
 }
 #mybutton::after {
   content: "";
   font-weight: normal;
   font-style: normal;
-  line-height: 50px;
+  line-height: 30px;
   color: #fff;
 }
 #mybutton:hover {
@@ -175,24 +202,25 @@ input[type="text"]
 #mybutton2 {
   display: inline-block;
   background-color: #0C79BF;
-  width: 150px;
-  height: 50px;
+  width: 100px;
+  height: 30px;
   text-align: center;
   border-radius: 4px;
   position: fixed;
   bottom: 20%;
   right: 10px;
   transition: background-color .3s, 
-    opacity .5s, visibility .5s;
+  opacity .5s, visibility .5s;
   opacity: 0;
   visibility: hidden;
   z-index: 1000;
+  font-size: 10px;
 }
 #mybutton2::after {
   content: "";
   font-weight: normal;
   font-style: normal;
-  line-height: 50px;
+  line-height: 30px;
   color: #fff;
 }
 #mybutton2:hover {

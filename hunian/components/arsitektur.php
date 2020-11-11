@@ -11,7 +11,7 @@
       <div class="carousel-inner">
         <div class="carousel-item active">
           <img class="d-block w-100 img-fluid" src="assets/img/andra-martin/1.jpg">
-          <div class="carousel-caption d-none d-md-block caption-bg">
+          <div class="carousel-caption caption-bg">
           <h2>Desain Arsitektur oleh </h2>
           <h1>Andra Matin</h1>
           </div>
@@ -31,28 +31,28 @@
         </div>
         <div class="carousel-item">
           <img class="d-block w-100 img-fluid" src="assets/img/andra-martin/2.jpg">
-          <div class="carousel-caption d-none d-md-block caption-bg">
+          <div class="carousel-caption caption-bg">
             <h2>Desain Arsitektur oleh </h2>
             <h1>Andra Matin</h1>
           </div>
         </div>
         <div class="carousel-item">
           <img class="d-block w-100 img-fluid" src="assets/img/andra-martin/3.jpg">
-          <div class="carousel-caption d-none d-md-block caption-bg">
+          <div class="carousel-caption caption-bg">
             <h2>Desain Arsitektur oleh </h2>
             <h1>Andra Matin</h1>
           </div>
         </div>
         <div class="carousel-item">
           <img class="d-block w-100 img-fluid" src="assets/img/andra-martin/4.jpg">
-          <div class="carousel-caption d-none d-md-block caption-bg">
+          <div class="carousel-caption caption-bg">
             <h2>Desain Arsitektur oleh </h2>
             <h1>Andra Matin</h1>
           </div>
         </div>
         <div class="carousel-item">
           <img class="d-block w-100 img-fluid" src="assets/img/andra-martin/5.jpg">
-          <div class="carousel-caption d-none d-md-block caption-bg">
+          <div class="carousel-caption caption-bg">
             <h2>Desain Arsitektur oleh </h2>
             <h1>Andra Matin</h1>
           </div>
@@ -80,7 +80,7 @@
       <div class="carousel-inner">
         <div class="carousel-item active">        
           <img class="d-block w-100 img-fluid" src="assets/img/pranala-asc/1.jpg">
-          <div class="carousel-caption d-none d-md-block caption-bg">
+          <div class="carousel-caption caption-bg">
             <h2>Desain Arsitektur oleh </h2>
             <h1>Pranala ASC</h1>
           </div><!-- 
@@ -100,28 +100,28 @@
         </div>
         <div class="carousel-item">
           <img class="d-block w-100 img-fluid" src="assets/img/pranala-asc/2.jpg">
-          <div class="carousel-caption d-none d-md-block caption-bg">
+          <div class="carousel-caption caption-bg">
             <h2>Desain Arsitektur oleh </h2>
             <h1>Pranala ASC</h1>
           </div>
         </div> 
         <div class="carousel-item">
           <img class="d-block w-100 img-fluid" src="assets/img/pranala-asc/3.jpg">
-          <div class="carousel-caption d-none d-md-block caption-bg">
+          <div class="carousel-caption caption-bg">
             <h2>Desain Arsitektur oleh </h2>
             <h1>Pranala ASC</h1>
           </div>
         </div>
         <div class="carousel-item">
           <img class="d-block w-100 img-fluid" src="assets/img/pranala-asc/4.jpg">
-          <div class="carousel-caption d-none d-md-block caption-bg">
+          <div class="carousel-caption caption-bg">
             <h2>Desain Arsitektur oleh </h2>
             <h1>Pranala ASC</h1>
           </div>
         </div>
         <div class="carousel-item">
           <img class="d-block w-100 img-fluid" src="assets/img/pranala-asc/5.jpg">
-          <div class="carousel-caption d-none d-md-block caption-bg">
+          <div class="carousel-caption caption-bg">
             <h2>Desain Arsitektur oleh </h2>
             <h1>Pranala ASC</h1>
           </div>

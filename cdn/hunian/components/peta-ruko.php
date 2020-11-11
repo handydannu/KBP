@@ -8,13 +8,13 @@
 </div>
 
 <div class="row">
-	<div class="col-lg-1">
+	<!-- <div class="col-lg-1">
         <a href="#masterplan-1" class="carousel-control-prev" data-slide="prev">
         <i class="fas fa-caret-left fa-10x" style="color: #038A7C"></i>
-        </a>
+        </a> -->
     </div>
 
-	<div class="col-lg-10 mt-2">
+	<div class="col-lg-12 col-md-12 col-sm-12 mt-2">
         <div class="carousel slide" id="masterplan-1" data-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
@@ -58,14 +58,22 @@
                     </div>
                 </div>
             </div><!-- /.carousel-inner -->
-        </div><!-- /.carousel -->
-    </div><!--/myCarousel-->  
 
-	<div class="col-lg-1">
+
+        <a href="#masterplan-1" class="carousel-control-prev" data-slide="prev">
+        <i class="fas fa-caret-left fa-10x" style="color: #038A7C"></i>
+        </a>
         <a href="#masterplan-1" class="carousel-control-next" data-slide="next">
             <i class="fas fa-caret-right fa-10x" style="color: #038A7C"></i>
         </a>
-    </div>
+        </div><!-- /.carousel -->
+    </div><!--/myCarousel-->  
+
+<!-- 	<div class="col-lg-1">
+        <a href="#masterplan-1" class="carousel-control-next" data-slide="next">
+            <i class="fas fa-caret-right fa-10x" style="color: #038A7C"></i>
+        </a>
+    </div> -->
 <!-- peta lokasi -->
 </div>
 <hr>

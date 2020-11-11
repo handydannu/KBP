@@ -11,35 +11,35 @@
       <div class="carousel-inner">
         <div class="carousel-item active">
           <img class="d-block w-100 img-fluid" src="https://res.cloudinary.com/dansprogramming/image/upload/v1604545508/KBP_HUNIAN/IMG/andra-martin/1.jpg">
-          <div class="carousel-caption d-none d-md-block caption-bg">
+          <div class="carousel-caption caption-bg">
             <h2>Desain Arsitektur oleh </h2>
             <h1>Andra Matin</h1>
           </div>
         </div>
         <div class="carousel-item">
           <img class="d-block w-100 img-fluid" src="https://res.cloudinary.com/dansprogramming/image/upload/v1604545503/KBP_HUNIAN/IMG/andra-martin/2.jpg">
-          <div class="carousel-caption d-none d-md-block caption-bg">
+          <div class="carousel-caption caption-bg">
             <h2>Desain Arsitektur oleh </h2>
             <h1>Andra Matin</h1>
           </div>
         </div>
         <div class="carousel-item">
           <img class="d-block w-100 img-fluid" src="https://res.cloudinary.com/dansprogramming/image/upload/v1604545504/KBP_HUNIAN/IMG/andra-martin/3.jpg">
-          <div class="carousel-caption d-none d-md-block caption-bg">
+          <div class="carousel-caption caption-bg">
             <h2>Desain Arsitektur oleh </h2>
             <h1>Andra Matin</h1>
           </div>
         </div>
         <div class="carousel-item">
           <img class="d-block w-100 img-fluid" src="https://res.cloudinary.com/dansprogramming/image/upload/v1604545501/KBP_HUNIAN/IMG/andra-martin/4.jpg">
-          <div class="carousel-caption d-none d-md-block caption-bg">
+          <div class="carousel-caption caption-bg">
             <h2>Desain Arsitektur oleh </h2>
             <h1>Andra Matin</h1>
           </div>
         </div>
         <div class="carousel-item">
           <img class="d-block w-100 img-fluid" src="https://res.cloudinary.com/dansprogramming/image/upload/v1604545501/KBP_HUNIAN/IMG/andra-martin/5.jpg">
-          <div class="carousel-caption d-none d-md-block caption-bg">
+          <div class="carousel-caption caption-bg">
             <h2>Desain Arsitektur oleh </h2>
             <h1>Andra Matin</h1>
           </div>
@@ -67,35 +67,35 @@
       <div class="carousel-inner">
         <div class="carousel-item active">
           <img class="d-block w-100 img-fluid" src="https://res.cloudinary.com/dansprogramming/image/upload/v1604545524/KBP_HUNIAN/IMG/pranala-asc/1.jpg">
-          <div class="carousel-caption d-none d-md-block caption-bg">
+          <div class="carousel-caption caption-bg">
             <h2>Desain Arsitektur oleh </h2>
             <h1>Pranala ASC</h1>
           </div>
         </div>
         <div class="carousel-item">
           <img class="d-block w-100 img-fluid" src="https://res.cloudinary.com/dansprogramming/image/upload/v1604545519/KBP_HUNIAN/IMG/pranala-asc/2.jpg">
-          <div class="carousel-caption d-none d-md-block caption-bg">
+          <div class="carousel-caption caption-bg">
             <h2>Desain Arsitektur oleh </h2>
             <h1>Pranala ASC</h1>
           </div>
         </div>
         <div class="carousel-item">
           <img class="d-block w-100 img-fluid" src="https://res.cloudinary.com/dansprogramming/image/upload/v1604997663/KBP_HUNIAN/IMG/pranala-asc/3.jpg">
-          <div class="carousel-caption d-none d-md-block caption-bg">
+          <div class="carousel-caption caption-bg">
             <h2>Desain Arsitektur oleh </h2>
             <h1>Pranala ASC</h1>
           </div>
         </div>
         <div class="carousel-item">
           <img class="d-block w-100 img-fluid" src="https://res.cloudinary.com/dansprogramming/image/upload/v1604545523/KBP_HUNIAN/IMG/pranala-asc/4.jpg">
-          <div class="carousel-caption d-none d-md-block caption-bg">
+          <div class="carousel-caption caption-bg">
             <h2>Desain Arsitektur oleh </h2>
             <h1>Pranala ASC</h1>
           </div>
         </div>
         <div class="carousel-item">
           <img class="d-block w-100 img-fluid" src="https://res.cloudinary.com/dansprogramming/image/upload/v1604545524/KBP_HUNIAN/IMG/pranala-asc/5.jpg">
-          <div class="carousel-caption d-none d-md-block caption-bg">
+          <div class="carousel-caption caption-bg">
             <h2>Desain Arsitektur oleh </h2>
             <h1>Pranala ASC</h1>
           </div>

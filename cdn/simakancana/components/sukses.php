@@ -8,7 +8,7 @@
 
 	<script src="https://kit.fontawesome.com/07c3763c4b.js" crossorigin="anonymous"></script>
 	<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
-	<link href="https://res.cloudinary.com/dansprogramming/raw/upload/v1605085343/KBP_SIMAKANCANA/JSCSS/kbp-simakancana.css" rel="stylesheet">
+	<link href="https://res.cloudinary.com/dansprogramming/raw/upload/v1605499800/KBP_SIMAKANCANA/JSCSS/kbp-simakancana.css" rel="stylesheet">
 	<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 </head>
 <body>

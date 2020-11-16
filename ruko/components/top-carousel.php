@@ -1,7 +1,7 @@
 <div class="carousel slide" id="slider-top" data-ride="carousel" style="margin-top: 160px">
 	<div class="carousel-inner">
 		<div class="carousel-item active">
-			<img class="d-block img-fluid" src="assets/img/sky-top-3a.jpg">
+			<img class="d-block img-fluid" src="../assets/img/ruko-top-1.jpg">
 			<div class="carousel-caption d-none d-md-block">
 			</div>
 		</div><!-- 

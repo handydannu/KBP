@@ -9,22 +9,22 @@
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="assets/img/galeri/1.jpg">
+      <img class="d-block w-100" src="../assets/img/simakancana-galeri/1.jpg">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="assets/img/galeri/2.jpg">
+      <img class="d-block w-100" src="../assets/img/simakancana-galeri/2.jpg">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="assets/img/galeri/3.jpg">
+      <img class="d-block w-100" src="../assets/img/simakancana-galeri/3.jpg">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="assets/img/galeri/4.jpg">
+      <img class="d-block w-100" src="../assets/img/simakancana-galeri/4.jpg">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="assets/img/galeri/5.jpg">
+      <img class="d-block w-100" src="../assets/img/simakancana-galeri/5.jpg">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="assets/img/galeri/6.jpg">
+      <img class="d-block w-100" src="../assets/img/simakancana-galeri/6.jpg">
     </div>
   </div>
   <a href="#galerisimakancana" class="carousel-control-prev text-success" data-slide="prev">

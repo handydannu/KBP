@@ -12,7 +12,7 @@
   <div class="col-lg-12 col-md-12 col-sm-12">
     <h4 class="text-white" style="margin-bottom: -15px">Marketing Gallery Kota Baru Parahyangan</h4><br>
       <p class="text-white">
-         Jalan Panyawangan Kav. 6B No. 6 Kota Baru Parahyangan (62-22) 680 3888 | <br><a class="footer-medsos" href="http://kotabaruparahyangan.com" target="_blank">www.kotabaruparahyangan.com</a>
+         Jalan Panyawangan Kav. 6B No. 6 Kota Baru Parahyangan (62-22) 680 3888
       </p>
 
   </div>        

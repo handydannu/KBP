@@ -2,7 +2,7 @@
 <div class="col-lg-12 col-sm-12 col-md-12 col-xs-12 text-center rounded-0 jumbotron shadow-sm">
 	<h3><strong>SAYA TERTARIK</strong></h3>
 	<h4 class="it">HUNIAN TEPI DANAU/TAMAN di <span class="kotbar-font"> Kota Baru Parahyangan</span></h4>
-	<form action="send.php" method="post">
+	<form action="components/send.php" method="post">
 		<label class="">Name</label>
 		<div class="form-group">
 			<input type="text" class="form-control rounded-0 shadow-sm" id="input_name" name="nama" required>

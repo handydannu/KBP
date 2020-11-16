@@ -1,14 +1,14 @@
 <html>
 <head>
 	<meta http-equiv="refresh" content="5;url=../index.php" />
-	<link rel="icon" type="assets/image/x-icon" href="assets/img/eco-logo.png" />
+	<link rel="icon" type="assets/image/x-icon" href="../../assets/img/eco-logo.png" />
 
 	<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400&display=swap" rel="stylesheet">  
 	<link href="https://fonts.googleapis.com/css2?family=Oswald&display=swap" rel="stylesheet"> 
 
 	<script src="https://kit.fontawesome.com/07c3763c4b.js" crossorigin="anonymous"></script>
 	<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
-	<link href="../assets/css/kbp-simakancana.css" rel="stylesheet">
+	<link href="../../assets/css/kbp-simakancana.css" rel="stylesheet">
 	<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 </head>
 <body>
@@ -35,6 +35,12 @@
 			</div>
 		</div>
 	</section><!-- End Hero -->
-
+	
+	<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<script type="text/javascript" src="assets/js/hover-box.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js" type="text/javascript"></script>
+	<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css" media="screen">
+	<script src="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>
 </body>
 </html>

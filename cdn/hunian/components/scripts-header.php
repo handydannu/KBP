@@ -12,7 +12,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet"> 
 <script src="https://kit.fontawesome.com/07c3763c4b.js" crossorigin="anonymous"></script>
 <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
-<link href="https://res.cloudinary.com/dansprogramming/raw/upload/v1605064875/KBP_HUNIAN/JSCSS/kbp-hunian.css" rel="stylesheet">
+<link href="https://res.cloudinary.com/dansprogramming/raw/upload/v1605499383/KBP_HUNIAN/JSCSS/kbp-hunian.css" rel="stylesheet">
 <link type="text/css" rel="stylesheet" href="https://res.cloudinary.com/dansprogramming/raw/upload/v1604545435/KBP_HUNIAN/JSCSS/hover-box.css">
 <link type="text/css" rel="stylesheet" href="https://res.cloudinary.com/dansprogramming/raw/upload/v1604545436/KBP_HUNIAN/JSCSS/hover.css">
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>

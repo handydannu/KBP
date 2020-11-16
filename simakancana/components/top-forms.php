@@ -8,7 +8,7 @@
         <section class="mt-3">
           <h1>NEW HOUSE TYPE <br>RUMAH SIMAKANCANA</h1>
 
-          <h2><img src="assets/img/eco-logo.png" class="img-fluid minilogo">&nbsp;Eco Smart Home</h2>
+          <h2><img src="../assets/img/eco-logo.png" class="img-fluid minilogo">&nbsp;Eco Smart Home</h2>
           <h2 class="mt-min20">Serene Living in The Beauty of Nature</h2>
           <!-- <a href="#" class="btn tombolku font-weight-bold text-uppercase">read more&nbsp;<i class="fas fa-arrow-right"></i></a> -->
         </section>

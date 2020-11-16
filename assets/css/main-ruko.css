@@ -1,5 +1,12 @@
 /* ----------------------------
 
+  _____          _   _  _____ _  __      _____  _____ _____ 
+ |  __ \   /\   | \ | |/ ____| |/ /     / ____|/ ____/ ____|
+ | |  | | /  \  |  \| | (___ | ' /_____| |    | (___| (___  
+ | |  | |/ /\ \ | . ` |\___ \|  <______| |     \___ \\___ \ 
+ | |__| / ____ \| |\  |____) | . \     | |____ ____) |___) |
+ |_____/_/    \_\_| \_|_____/|_|\_\     \_____|_____/_____/
+ 
 CSS BOX For KBP Microsite II
 Author: Ayo Media Network
 
@@ -571,8 +578,8 @@ input[type="text"]
 #mybutton {
   display: inline-block;
   background-color: #0C79BF;
-  width: 150px;
-  height: 50px;
+  width: 100px;
+  height: 30px;
   text-align: center;
   border-radius: 4px;
   position: fixed;
@@ -583,12 +590,13 @@ input[type="text"]
   opacity: 0;
   visibility: hidden;
   z-index: 1000;
+  font-size: 10px;
 }
 #mybutton::after {
   content: "";
   font-weight: normal;
   font-style: normal;
-  line-height: 50px;
+  line-height: 30px;
   color: #fff;
 }
 #mybutton:hover {

@@ -4,7 +4,16 @@
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js" type="text/javascript"></script>
 <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css" media="screen">
 <script src="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>
-
+<script type="text/javascript">
+    
+$(document).ready(function() {
+    
+    setTimeout(function(){
+        $('body').addClass('loaded');
+    }, 2000);
+    
+});
+</script>
 <script>
 // open new windows url	
 var btn = $('#mybutton');

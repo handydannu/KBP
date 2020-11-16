@@ -75,6 +75,6 @@
         </a>
     </div> -->
 <!-- peta lokasi -->
+  <img class="img-fluid d-flex justify-content-center" src="https://res.cloudinary.com/dansprogramming/image/upload/v1604978066/KBP_HUNIAN/IMG/key-map.jpg"> 
 </div>
 <hr>
-<img class="img-fluid" src="https://res.cloudinary.com/dansprogramming/image/upload/v1604978066/KBP_HUNIAN/IMG/key-map.jpg">  

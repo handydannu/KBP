@@ -19,7 +19,7 @@
           <h5 class="text-white">Welcome to</h5>
           <h5 class="text-white font-weight-bold">KOTA BARU PARAHYANGAN</h5>
             <p class="text-white">The Future is Here as Close as Our Heart</p>
-         <form action="send.php" method="post">
+         <form action="components/send.php" method="post">
             <div class="form-group">
               <label class="text-white text-uppercase" for="nama">Nama</label> 
               <input id="nama" name="nama" type="text" required="required" class="form-control rounded-0">

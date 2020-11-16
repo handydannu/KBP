@@ -10,14 +10,12 @@ if($_POST['kirim']){
 	$pengirim	= 'Nama Pengirim : '.$nama.'- Nomor Telepon : ' .$tlp.' <'.$email.'>';
 	
 	if(mail($admin, $pesan, $pengirim)){
-		header("Location: index.php");
-		echo "<script>
-				btn.removeClass('show');
-				</script>";
+		header("Location: sukses.php");
+
 	}else{
-		echo 'ERROR: Pesan anda gagal di kirim silahkan coba lagi. <a href="index.php">Kembali</a>';
+		header("Location: gagal.php");
 	}
 }else{
-	header("Location: index.php");
+	header("Location: gagal.php");
 }
 ?>

@@ -13,7 +13,7 @@
 
 						<div class="col-md-3 col-sm-12 col-xs-12">	                    	
 								<div class="hovereffect">
-							        <img class="img-fluid" src="assets/img/facility/1.jpg">
+							        <img class="img-fluid" src="../assets/img/hunian-facility/1.jpg">
 							        <div class="overlay">
 							          <h1>PARAHYANGAN GOLF</h1>
 							        </div>
@@ -22,7 +22,7 @@
 		
 						<div class="col-md-3 col-sm-12">
 								<div class="hovereffect">
-							        <img class="img-fluid" src="assets/img/facility/2.jpg">
+							        <img class="img-fluid" src="../assets/img/hunian-facility/2.jpg">
 							        <div class="overlay">
 							          <h1>MASON PINE HOTEL</h1>
 							        </div>
@@ -31,7 +31,7 @@
 
 						<div class="col-md-3 col-sm-12">
 								<div class="hovereffect">
-							        <img class="img-fluid" src="assets/img/facility/3.jpg">
+							        <img class="img-fluid" src="../assets/img/hunian-facility/3.jpg">
 							        <div class="overlay">
 							          <h1>BUMI PANCASONA</h1>
 							        </div>
@@ -40,7 +40,7 @@
 
 						<div class="col-md-3 col-sm-12">
 								<div class="hovereffect">
-							        <img class="img-fluid" src="assets/img/facility/4.jpg">
+							        <img class="img-fluid" src="../assets/img/hunian-facility/4.jpg">
 							        <div class="overlay">
 							          <h1>IKEA STORE</h1>
 							        </div>
@@ -53,7 +53,7 @@
                   <div class="row no-gutters">
 						<div class="col-md-3 col-sm-12">
 								<div class="hovereffect">
-							        <img class="img-fluid" src="assets/img/facility/5.jpg">
+							        <img class="img-fluid" src="../assets/img/hunian-facility/5.jpg">
 							        <div class="overlay">
 							          <h1>WATER THEME PARK</h1>
 							        </div>
@@ -62,7 +62,7 @@
 		
 						<div class="col-md-3 col-sm-12">
 								<div class="hovereffect">
-							        <img class="img-fluid" src="assets/img/facility/6.jpg">
+							        <img class="img-fluid" src="../assets/img/hunian-facility/6.jpg">
 							        <div class="overlay">
 							          <h1>LIFESTYLE MALL</h1>
 							        </div>
@@ -71,7 +71,7 @@
 
 						<div class="col-md-3 col-sm-12">
 								<div class="hovereffect">
-							        <img class="img-fluid" src="assets/img/facility/3.jpg">
+							        <img class="img-fluid" src="../assets/img/hunian-facility/3.jpg">
 							        <div class="overlay">
 							          <h1>MODERN MARKET</h1>
 							        </div>
@@ -80,7 +80,7 @@
 
 						<div class="col-md-3 col-sm-12">
 								<div class="hovereffect">
-							        <img class="img-fluid" src="assets/img/facility/4.jpg">
+							        <img class="img-fluid" src="../assets/img/hunian-facility/4.jpg">
 							        <div class="overlay">
 							          <h1>IKEA STORE</h1>
 							        </div>

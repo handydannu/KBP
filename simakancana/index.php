@@ -42,7 +42,7 @@
 </div><!-- /end container main -->
 
   <!-- footer row -->
-  <div div id="footer" class="container-fluid bg-footer-kbp text-center mt-2">
+  <div id="footer" class="container-fluid bg-footer-kbp text-center mt-2">
     <?php include 'components/main-footer.php';?>
   </div><!-- /footer row -->
 

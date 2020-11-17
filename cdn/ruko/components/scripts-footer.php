@@ -28,7 +28,7 @@ $(window).scroll(function() {
 });
 
 function tekan() {
-  location.replace("hunian");
+  location.replace("../hunian/index.php");
 }
 // btn.on('click', openNewWindow = function tekan() {
 //  window.location.href = "http://www.w3schools.com";

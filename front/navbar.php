@@ -4,7 +4,7 @@
   </button>
   <div class="collapse navbar-collapse" id="main_nav">
     <ul class="navbar-nav mx-auto">
-      <li class="nav-item"><a class="nav-link" href="#"><img src="../assets/img/logo.png"></a></li>
+      <li class="nav-item"><a class="nav-link" href="#"><img src="assets/img/logo.png"></a></li>
     </ul>
   </div> <!-- navbar-collapse.// -->
 

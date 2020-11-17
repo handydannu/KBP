@@ -1,13 +1,13 @@
 <html>
 <head>
 	<meta http-equiv="refresh" content="5;url=../index.php" />
-	<link rel="icon" type="assets/image/x-icon" href="assets/img/eco-logo.png" />
+	<link rel="icon" type="assets/image/x-icon" href="../../assets/img/eco-logo.png" />
 
 	<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400&display=swap" rel="stylesheet">  
 	<link href="https://fonts.googleapis.com/css2?family=Oswald&display=swap" rel="stylesheet"> 
 	<script src="https://kit.fontawesome.com/07c3763c4b.js" crossorigin="anonymous"></script>
 	<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
-	<link href="../assets/css/kbp-hunian.css" rel="stylesheet">
+	<link href="../../assets/css/kbp-hunian.css" rel="stylesheet">
 	<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 </head>
 <body>
@@ -30,10 +30,10 @@
 					<div id="slide-mid-b" class="carousel slide" data-ride="carousel">
 					  <div class="carousel-inner">
 					    <div class="carousel-item active" data-slide-number="5">
-					      <img src="../assets/img/park/5.jpg" class="d-block w-100" data-type="image" data-toggle="lightbox">
+					      <img src="../../assets/img/hunian-park/5.jpg" class="d-block w-100" data-type="image" data-toggle="lightbox">
 					    </div>    
 					    <div class="carousel-item" data-slide-number="5">
-					      <img src="../assets/img/park/6.jpg" class="d-block w-100" data-type="image" data-toggle="lightbox">
+					      <img src="../../assets/img/hunian-park/6.jpg" class="d-block w-100" data-type="image" data-toggle="lightbox">
 					    </div>
 					  </div>
 

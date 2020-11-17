@@ -1,12 +1,12 @@
 <div class="carousel slide" id="slider-top" data-ride="carousel" style="margin-top: 160px">
 	<div class="carousel-inner">
 		<div class="carousel-item active">
-			<img class="d-block img-fluid" src="assets/img/sky-top-3a.jpg">
+			<img class="d-block img-fluid" src="../assets/img/hunian-top-1.jpg">
 			<div class="carousel-caption d-none d-md-block">
 			</div>
 		</div>
 		<div class="carousel-item">
-			<img src="assets/img/sky-top-4b.jpg" class="d-block img-fluid">
+			<img src="../assets/img/hunian-top-2.jpg" class="d-block img-fluid">
 			<div class="carousel-caption d-none d-md-block">
 			</div>
 		</div>

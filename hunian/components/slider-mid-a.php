@@ -18,22 +18,22 @@
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">          
-          <img class="d-block w-100 img-fluid" src="assets/img/lake/lake-1.jpg">
+          <img class="d-block w-100 img-fluid" src="../assets/img/hunian-lake/lake-1.jpg">
         </div>
         <div class="carousel-item">
-          <img class="d-block w-100 img-fluid" src="assets/img/lake/lake-2.jpg">
+          <img class="d-block w-100 img-fluid" src="../assets/img/hunian-lake/lake-2.jpg">
         </div>
         <div class="carousel-item">
-          <img class="d-block w-100 img-fluid" src="assets/img/lake/lake-3.jpg">
+          <img class="d-block w-100 img-fluid" src="../assets/img/hunian-lake/lake-3.jpg">
         </div>
         <div class="carousel-item">
-          <img class="d-block w-100 img-fluid" src="assets/img/lake/lake-4.jpg">
+          <img class="d-block w-100 img-fluid" src="../assets/img/hunian-lake/lake-4.jpg">
         </div>
         <div class="carousel-item">
-          <img class="d-block w-100 img-fluid" src="assets/img/lake/lake-5.jpg">
+          <img class="d-block w-100 img-fluid" src="../assets/img/hunian-lake/lake-5.jpg">
         </div>
         <div class="carousel-item">
-          <img class="d-block w-100 img-fluid" src="assets/img/lake/lake-6.jpg">
+          <img class="d-block w-100 img-fluid" src="../assets/img/hunian-lake/lake-6.jpg">
         </div>
       </div>
 

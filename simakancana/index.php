@@ -22,11 +22,15 @@
     <!-- main navigation -->
     <?php include 'components/navbar.php';?>
     <!-- slider-top -->
+    <?php include 'components/house.php';?>
     <?php include 'components/top-forms.php';?>
     <?php include 'components/feature.php';?>
     <?php include 'components/download.php';?>
     <?php include 'components/galeri.php';?>
-    <!-- <?php include 'components/mini-galeri.php';?> -->
+    <!-- video -->
+    <?php include 'components/videos.php';?>
+    <!-- 4 thumbs -->
+    <?php include '../hunian/components/thumb-below.php';?>
     <!-- button to top -->
     <a id="mybutton" class="text-white" onclick="tekan()"><i class="text-white fas fa-backward"></i>&nbsp;SEBELUMNYA
     <!-- button to top 

@@ -126,7 +126,6 @@ body{
   background: url("https://res.cloudinary.com/dansprogramming/image/upload/v1604894052/KBP_SIMAKANCANA/IMG/Simakancana.jpg") center center;
   background-size: cover;
   position: relative;
-  margin-top: 160px;
   padding: 0;
 }
 #hero:before {

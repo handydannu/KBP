@@ -32,13 +32,13 @@
       <img class="d-block w-100" src="https://res.cloudinary.com/dansprogramming/image/upload/v1605075663/KBP_SIMAKANCANA/IMG/galeri/6.jpg">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="../assets/img/simakancana-galeri/7.jpg">
+      <img class="d-block w-100" src="https://res.cloudinary.com/dansprogramming/image/upload/v1605856352/KBP_SIMAKANCANA/IMG/galeri/7.jpg">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="../assets/img/simakancana-galeri/8.jpg">
+      <img class="d-block w-100" src="https://res.cloudinary.com/dansprogramming/image/upload/v1605856346/KBP_SIMAKANCANA/IMG/galeri/8.jpg">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="../assets/img/simakancana-galeri/9.jpg">
+      <img class="d-block w-100" src="https://res.cloudinary.com/dansprogramming/image/upload/v1605856333/KBP_SIMAKANCANA/IMG/galeri/9.jpg">
     </div>
     <div class="carousel-item">
       <img class="d-block w-100" src="https://res.cloudinary.com/dansprogramming/image/upload/v1605854747/KBP_SIMAKANCANA/IMG/galeri/10.jpg">

@@ -9,7 +9,7 @@
   </ol> -->
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="../assets/img/facade.jpg">
+      <img class="d-block w-100" src="../assets/img/progress.jpg">
     </div><!-- 
     <div class="carousel-item">
       <img class="d-block w-100" src="../assets/img/simakancana-galeri/2.jpg">

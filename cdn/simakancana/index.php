@@ -5,6 +5,7 @@
   </head>
   <body>
 
+    <!-- loader -->
     <div id="loader-wrapper">
       <div id="loader"></div>
       <div class="loader-section section-left"></div>
@@ -21,11 +22,16 @@
     <!-- main navigation -->
     <?php include 'components/navbar.php';?>
     <!-- slider-top -->
+    <?php include 'components/house.php';?>
     <?php include 'components/top-forms.php';?>
     <?php include 'components/feature.php';?>
     <?php include 'components/download.php';?>
+    <?php include 'components/progress.php';?>
     <?php include 'components/galeri.php';?>
-    <!-- <?php include 'components/mini-galeri.php';?> -->
+    <!-- video -->
+    <?php include 'components/videos.php';?>
+    <!-- 4 thumbs -->
+    <?php include '../hunian/components/thumb-below.php';?>
     <!-- button to top -->
     <a id="mybutton" class="text-white" onclick="tekan()"><i class="text-white fas fa-backward"></i>&nbsp;SEBELUMNYA
     <!-- button to top 
@@ -41,7 +47,7 @@
 </div><!-- /end container main -->
 
   <!-- footer row -->
-  <div div id="footer" class="container-fluid bg-footer-kbp text-center mt-2">
+  <div id="footer" class="container-fluid bg-footer-kbp text-center mt-2">
     <?php include 'components/main-footer.php';?>
   </div><!-- /footer row -->
 

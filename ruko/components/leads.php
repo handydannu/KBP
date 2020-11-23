@@ -24,7 +24,8 @@
 					</div>
 					<div class="col-md-4 col-sm-4 col-xs-12 mt-1">
 						<div class="button-icon-download shade">
-							<a href="../assets/files/FA_Brosur_master_KBP.pdf" class="dwnl-btn"><i class="fa fa-download" aria-hidden="true"></i></a>
+							<a href="../assets/files/584h65er48440o548gf56sd40d654gg/
+							FA_Brosur_master_KBP.pdf" class="dwnl-btn"><i class="fa fa-download" aria-hidden="true"></i></a>
 						</div>
 						<div class="title-download">
 							MASTER PLAN
@@ -32,7 +33,7 @@
 					</div>
 					<div class="col-md-4 col-sm-4 col-xs-12 mt-1">
 						<div class="button-icon-download shade">
-							<a href="../assets/files/pdf_promo.pdf" class="dwnl-btn"><i class="fa fa-download" aria-hidden="true"></i></a>
+							<a href="../assets/files/ku727845df4erh5tukiod5008704465/pdf_promo.pdf" class="dwnl-btn"><i class="fa fa-download" aria-hidden="true"></i></a>
 						</div>
 						<div class="title-download">
 							PROMO

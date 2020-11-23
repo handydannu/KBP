@@ -10,11 +10,14 @@
 </div>
 <div id="slide-mid-b" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
-    <div class="carousel-item active" data-slide-number="5">
+    <div class="carousel-item active" data-slide-number="0">
       <img src="../assets/img/hunian-park/5.jpg" class="d-block w-100" data-type="image" data-toggle="lightbox">
     </div>    
-    <div class="carousel-item" data-slide-number="5">
+    <div class="carousel-item" data-slide-number="1">
       <img src="../assets/img/hunian-park/6.jpg" class="d-block w-100" data-type="image" data-toggle="lightbox">
+    </div>
+    <div class="carousel-item" data-slide-number="2">
+      <img src="../assets/img/hunian-park/7.jpg" class="d-block w-100" data-type="image" data-toggle="lightbox">
     </div>
   </div>
 

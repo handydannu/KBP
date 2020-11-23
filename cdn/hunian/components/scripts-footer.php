@@ -1,5 +1,6 @@
+
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-<script type="text/javascript" src="https://res.cloudinary.com/dansprogramming/raw/upload/v1604545437/KBP_HUNIAN/JSCSS/hover-box.js"></script>
+<script type="text/javascript" src="assets/js/hover-box.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js" type="text/javascript"></script>
 <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css" media="screen">
@@ -27,7 +28,7 @@ $(window).scroll(function() {
 });
 
 function tekan() {
-  location.replace("../ruko/index.php")
+  location.replace("../simakancana/index.php")
 }
 // btn.on('click', openNewWindow = function tekan() {
 //  window.location.href = "http://www.w3schools.com";

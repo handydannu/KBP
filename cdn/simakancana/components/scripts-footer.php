@@ -1,7 +1,8 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js" type="text/javascript"></script>
-<script type="text/javascript">
-    
+
+<!-- script for loader -->
+<script type="text/javascript">    
 $(document).ready(function() {
     
     setTimeout(function(){
@@ -10,9 +11,11 @@ $(document).ready(function() {
     
 });
 </script>
+
+<!-- script next -prev -->
 <script>
 // open new windows url	
-var btn = $('#mybutton');
+var btn = $('#mybutton3');
 
 $(window).scroll(function() {
   if ($(window).scrollTop() > 300) {
@@ -22,14 +25,11 @@ $(window).scroll(function() {
   }
 });
 
-function tekan() {
+function tekannext() {
   location.replace("../hunian/index.php")
 }
-
 // btn.on('click', openNewWindow = function tekan() {
-
 //  window.location.href = "http://www.w3schools.com";
-
 // });
 </script>
 

@@ -20,20 +20,21 @@
     <div class="col-md-8">
 
     <!-- main navigation -->
-    <?php include 'https://cdn.statically.io/gh/handydannu/KBP/main/cdn/simakancana/components/navbar.php';?>
+    <?php include 'components/navbar.php';?>
     <!-- slider-top -->
-    <?php include 'https://cdn.statically.io/gh/handydannu/KBP/main/cdn/simakancana/components/house.php';?>
-    <?php include 'https://cdn.statically.io/gh/handydannu/KBP/main/cdn/simakancana/components/top-forms.php';?>
-    <?php include 'https://cdn.statically.io/gh/handydannu/KBP/main/cdn/simakancana/components/feature.php';?>
-    <?php include 'https://cdn.statically.io/gh/handydannu/KBP/main/cdn/simakancana/components/download.php';?>
-    <?php include 'https://cdn.statically.io/gh/handydannu/KBP/main/cdn/simakancana/components/progress.php';?>
-    <?php include 'https://cdn.statically.io/gh/handydannu/KBP/main/cdn/simakancana/components/galeri.php';?>
+    <?php include 'components/house.php';?>
+    <?php include 'components/top-forms.php';?>
+    <?php include 'components/feature.php';?>
+    <?php include 'components/download.php';?>
+    <?php include 'components/progress.php';?>
+    <?php include 'components/galeri.php';?>
     <!-- video -->
     <?php include 'components/videos.php';?>
     <!-- 4 thumbs -->
     <?php include '../hunian/components/thumb-below.php';?>
-    <!-- button to top -->
-    <a id="mybutton" class="text-white" onclick="tekan()"><i class="text-white fas fa-backward"></i>&nbsp;SEBELUMNYA
+     <!--  button to top 
+    <a id="mybutton" class="text-white" onclick="tekannext()"><i class="text-white fas fa-backward"></i>&nbsp;SEBELUMNYA-->  
+    <a id="mybutton3" class="text-white" onclick="tekannext()">SELANJUTNYA&nbsp;<i class="text-white fas fa-forward"></i> 
     <!-- button to top 
     <a id="mybutton"><i class="text-white fas fa-chevron-up"></i></a>-->
     </a>

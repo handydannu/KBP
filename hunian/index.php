@@ -41,9 +41,10 @@
     <?php include 'components/thumb-below.php';?>
     <!-- 4 thumbs -->
     <?php include 'components/peta-ruko.php';?>
-    <!-- button to top disable
-    <a id="mybutton" class="text-white" onclick="tekan()"><i class="text-white fas fa-backward"></i>&nbsp;SEBELUMNYA -->
-    <a id="mybutton2" class="text-white" onclick="tekannext()">SELANJUTNYA&nbsp;<i class="text-white fas fa-forward"></i>
+  
+    <a id="mybutton" class="text-white" onclick="tekan()"><i class="text-white fas fa-backward"></i>&nbsp;SEBELUMNYA
+    <!--   button to top disable  
+    <a id="mybutton2" class="text-white" onclick="tekannext()">SELANJUTNYA&nbsp;<i class="text-white fas fa-forward"></i> -->
     <!-- button to top 
     <a id="mybutton"><i class="text-white fas fa-chevron-up"></i></a>-->
     </a>

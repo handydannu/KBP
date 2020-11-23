@@ -32,8 +32,9 @@
     <?php include 'components/videos.php';?>
     <!-- 4 thumbs -->
     <?php include '../hunian/components/thumb-below.php';?>
-    <!-- button to top -->
-    <a id="mybutton" class="text-white" onclick="tekan()"><i class="text-white fas fa-backward"></i>&nbsp;SEBELUMNYA
+     <!--  button to top 
+    <a id="mybutton" class="text-white" onclick="tekannext()"><i class="text-white fas fa-backward"></i>&nbsp;SEBELUMNYA-->  
+    <a id="mybutton3" class="text-white" onclick="tekannext()">SELANJUTNYA&nbsp;<i class="text-white fas fa-forward"></i> 
     <!-- button to top 
     <a id="mybutton"><i class="text-white fas fa-chevron-up"></i></a>-->
     </a>

@@ -15,7 +15,7 @@ $(document).ready(function() {
 <!-- script next -prev -->
 <script>
 // open new windows url	
-var btn = $('#mybutton');
+var btn = $('#mybutton3');
 
 $(window).scroll(function() {
   if ($(window).scrollTop() > 300) {
@@ -25,7 +25,7 @@ $(window).scroll(function() {
   }
 });
 
-function tekan() {
+function tekannext() {
   location.replace("../hunian/index.php")
 }
 // btn.on('click', openNewWindow = function tekan() {

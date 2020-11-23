@@ -28,7 +28,7 @@ $(window).scroll(function() {
 });
 
 function tekan() {
-  location.replace("../index.php")
+  location.replace("../simakancana/index.php")
 }
 // btn.on('click', openNewWindow = function tekan() {
 //  window.location.href = "http://www.w3schools.com";

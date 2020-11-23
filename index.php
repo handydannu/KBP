@@ -1,3 +1,3 @@
 <?php
-header("Location: hunian/index.php"); /* Redirect browser */
+header("Location: simakancana/index.php"); /* Redirect browser */
 ?>

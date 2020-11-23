@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /simakancana/
+Allow: /ruko/
+Allow: /hunian/
+Disallow: /assets/
+Disallow: /front/

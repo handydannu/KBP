@@ -20,25 +20,18 @@
     <div class="col-md-8">
 
     <!-- main navigation -->
+    <?php include 'components/feature.php';?>
     <?php include 'components/navbar.php';?>
     <!-- slider-top -->
-    <?php include 'components/house.php';?>
-    <?php include 'components/top-forms.php';?>
-    <?php include 'components/feature.php';?>
-    <?php include 'components/download.php';?>
-    <?php include 'components/progress.php';?>
-    <?php include 'components/galeri.php';?>
-    <!-- video -->
-    <?php include 'components/videos.php';?>
-    <!-- video -->
+    <?php include 'components/hadiah.php';?>
+    <?php include 'components/form.php';?>
+    <!-- callme -->
     <?php include 'components/callme.php';?>
     <!-- 4 thumbs -->
     <?php include '../hunian/components/thumb-below.php';?>
      <!--  button to top 
     <a id="mybutton" class="text-white" onclick="tekannext()"><i class="text-white fas fa-backward"></i>&nbsp;SEBELUMNYA-->  
     <a id="mybutton3" class="text-white" onclick="tekannext()">SELANJUTNYA&nbsp;<i class="text-white fas fa-forward"></i> 
-    <!-- button to top 
-    <a id="mybutton"><i class="text-white fas fa-chevron-up"></i></a>-->
     </a>
   		
 		</div><!-- /end main content -->

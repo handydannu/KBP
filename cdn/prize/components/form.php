@@ -1,7 +1,8 @@
-<div class="mt-3 col-lg-12 col-sm-12 col-md-12 col-xs-12 text-center rounded-0 jumbotron shadow-sm">
-	<h3 data-aos="fade-right" data-aos-delay="500"><strong>SAYA TERTARIK</strong></h3>
-	<h4 class="it" data-aos="fade-right" data-aos-delay="800">DENGAN RUMAH SIMAKANCANA di<span class="kotbar-font"> Kota Baru Parahyangan</span></h4>
-	<form action="components/send.php" method="post" data-aos="fade-right" data-aos-delay="1100">
+<hr>
+<div class="col-lg-12 col-sm-12 col-md-12 col-xs-12 text-center rounded-0 jumbotron shadow-sm">
+	<h3 data-aos="fade-right" data-aos-delay="900"><strong>SAYA TERTARIK</strong></h3>
+	<h4 class="it" data-aos="fade-right" data-aos-delay="1100">HUNIAN TEPI DANAU/TAMAN di <span class="kotbar-font"> Kota Baru Parahyangan</span></h4>
+	<form action="components/send.php" method="post" data-aos="fade-right" data-aos-delay="1300">
 		<label class="">Name</label>
 		<div class="form-group">
 			<input type="text" class="form-control rounded-0 shadow-sm" id="input_name" name="nama" required>
@@ -23,3 +24,4 @@
 			<label style="font-size: 12px;">Mohon kesediaan Bapak/Ibu untuk dihubungi oleh Sales Representative Kota Baru Parahyangan </label>
 	</form>
 </div>
+<hr>

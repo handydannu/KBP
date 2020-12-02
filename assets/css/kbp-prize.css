@@ -38,16 +38,22 @@ body{
   font-weight: bold;
   text-transform: uppercase;
 }
-
+.bg-ungu{
+  background: rgb(162,81,192);
+  background: linear-gradient(50deg, rgba(162,81,192,1) 0%, rgba(74,19,149,1) 35%);
+}
 /*button callme */
 .callme{
   width: 300px;
   height: 80px; 
   font-size: 20px; 
-  background-color: #007AC3;
+  background: rgb(162,81,192);
+  background: linear-gradient(50deg, rgba(162,81,192,1) 0%, rgba(74,19,149,1) 35%);;
 }
-.callme:hover{
-  background-color: #88B447;
+.callme:hover{ 
+  background: rgb(162,81,192);
+  background: linear-gradient(111deg, rgba(162,81,192,1) 0%, rgba(70,25,131,1) 59%);   
+  transition: 0.3s;
 }
 .putih{
   text-decoration: none;
@@ -57,7 +63,8 @@ body{
 .tombol-notif{
   color: #fff;
   width: 100%;
-  background-color: #038A7C;
+  background: rgb(162,81,192);
+  background: linear-gradient(50deg, rgba(162,81,192,1) 0%, rgba(74,19,149,1) 35%);
   font-size: 20px;
   border: 1px solid #fff; ;
 }

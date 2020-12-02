@@ -27,6 +27,8 @@
     <?php include 'components/form.php';?>
     <!-- callme -->
     <?php include 'components/callme.php';?>
+    <!-- 4 thumbs -->
+    <?php include '../hunian/components/thumb-below.php';?>
      <!--  button to top 
     <a id="mybutton" class="text-white" onclick="tekannext()"><i class="text-white fas fa-backward"></i>&nbsp;SEBELUMNYA-->  
     <a id="mybutton3" class="text-white" onclick="tekannext()">SELANJUTNYA&nbsp;<i class="text-white fas fa-forward"></i> 

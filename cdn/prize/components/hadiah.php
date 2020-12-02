@@ -1,5 +1,4 @@
-<div class="col-md-12 mt-3 shadow-sm" style="background: rgb(162,81,192);
-background: linear-gradient(50deg, rgba(162,81,192,1) 0%, rgba(74,19,149,1) 35%);">
+<div class="col-md-12 mt-3 pt-3 pb-3 shadow-sm bg-ungu">
 <div class="row">
   <div class="col-md-3" data-aos="flip-left" data-aos-delay="300">
     <img class="img-fluid" src="https://res.cloudinary.com/dansprogramming/image/upload/v1606815314/KBP_HADIAH/1.png">

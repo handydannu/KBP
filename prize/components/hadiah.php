@@ -17,5 +17,5 @@
     <h3 class="text-center text-white"><strong>SOLAHART</strong> <br>ELECTRIC</h4>
   </div>
 </div>
-    <h3 class="text-center text-white" data-aos="fade-right" data-aos-delay="1200">YOGYA SUPERMART VOUCHER Rp. 1 JUTA ◉ <img class="img-fluid" src="../assets/img/hadiah/solahart.jpg" width="100px"> VOUCHER</h3>
+    <h3 class="text-center text-white mt-3" data-aos="fade-right" data-aos-delay="500">YOGYA SUPERMART VOUCHER Rp. 1 JUTA ◉ <img class="img-fluid" src="../assets/img/hadiah/solahart.jpg" width="100px"> VOUCHER</h3>
 </div>

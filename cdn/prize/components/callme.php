@@ -1,4 +1,4 @@
-<div class="jumbotron mt-3 rounded-0 justify-content-center" >
+<div class="jumbotron bg-white mt-3 rounded-0 justify-content-center" >
 	<div class="row">
 		<div class="col-md-4"></div>
 		<div class="col-md-4 d-flex justify-content-center" data-aos="zoom-in" data-aos-delay="300">

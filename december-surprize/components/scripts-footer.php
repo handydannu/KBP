@@ -18,18 +18,18 @@ $(document).ready(function() {
 <!-- script next -prev -->
 <script>
 // open new windows url	
-var btn = $('#mybutton3');
+var btn3 = $('#nextyes');
 
 $(window).scroll(function() {
   if ($(window).scrollTop() > 300) {
-    btn.addClass('show');
+    btn3.addClass('show');
   } else {
-    btn.removeClass('show');
+    btn3.removeClass('show');
   }
 });
 
 function tekannext() {
-  location.replace("../hunian/index.php")
+  location.replace("../simakancana/index.php")
 }
 // btn.on('click', openNewWindow = function tekan() {
 //  window.location.href = "http://www.w3schools.com";

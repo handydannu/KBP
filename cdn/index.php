@@ -1,3 +1,3 @@
 <?php
-header("Location: simakancana/index.php"); /* Redirect browser */
+header("Location: december-surprize/index.php"); /* Redirect browser */
 ?>

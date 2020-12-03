@@ -29,7 +29,7 @@
     <?php include 'components/callme.php';?>
      <!--  button to top 
     <a id="mybutton" class="text-white" onclick="tekannext()"><i class="text-white fas fa-backward"></i>&nbsp;SEBELUMNYA-->  
-    <a id="mybutton3" class="text-white" onclick="tekannext()">SELANJUTNYA&nbsp;<i class="text-white fas fa-forward"></i> 
+    <a id="nextyes" class="text-white" onclick="tekannext()">SELANJUTNYA&nbsp;<i class="text-white fas fa-forward"></i> 
     </a>
   		
 		</div><!-- /end main content -->

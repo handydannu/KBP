@@ -11,26 +11,38 @@ $(document).ready(function() {
     
 });
 </script>
-
-<!-- script next -prev -->
 <script>
-// open new windows url	
-var btn = $('#mybutton3');
+// open new windows url 
+var btn1 = $('#prevyes');
 
 $(window).scroll(function() {
   if ($(window).scrollTop() > 300) {
-    btn.addClass('show');
+    btn1.addClass('show');
   } else {
-    btn.removeClass('show');
+    btn1.removeClass('show');
+  }
+});
+
+function tekanprev() {
+  location.replace("../december-surprize/index.php")
+}
+</script>
+
+<script>
+// open new windows url 
+var btn2 = $('#nextyes');
+
+$(window).scroll(function() {
+  if ($(window).scrollTop() > 300) {
+    btn2.addClass('show');
+  } else {
+    btn2.removeClass('show');
   }
 });
 
 function tekannext() {
   location.replace("../hunian/index.php")
 }
-// btn.on('click', openNewWindow = function tekan() {
-//  window.location.href = "http://www.w3schools.com";
-// });
 </script>
 
 <script type="text/javascript">

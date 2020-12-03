@@ -31,9 +31,6 @@ $(window).scroll(function() {
 function tekannext() {
   location.replace("../simakancana/index.php")
 }
-// btn.on('click', openNewWindow = function tekan() {
-//  window.location.href = "http://www.w3schools.com";
-// });
 </script>
 
 <script type="text/javascript">

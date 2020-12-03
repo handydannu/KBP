@@ -13,8 +13,10 @@
 <link href="https://fonts.googleapis.com/css2?family=Oswald&display=swap" rel="stylesheet"> 
 <script src="https://kit.fontawesome.com/07c3763c4b.js" crossorigin="anonymous"></script>
 <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
-<link href="https://raw.githack.com/handydannu/KBP/main/assets/css/kbp-simakancana.css" rel="stylesheet">
-<link href="https://raw.githack.com/handydannu/KBP/main/assets/css/kbp-hunian.css" rel="stylesheet">
+
+<link href="https://rawcdn.githack.com/handydannu/KBP/6f442ab43e220f3b7d2a467ad7e45a9134d62da6/assets/css/kbp-simakancana.css" rel="stylesheet">
+<link href="https://rawcdn.githack.com/handydannu/KBP/6f442ab43e220f3b7d2a467ad7e45a9134d62da6/assets/css/kbp-hunian.css" rel="stylesheet">
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
 <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css" media="screen">
 <script src="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>

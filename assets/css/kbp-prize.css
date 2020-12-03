@@ -495,3 +495,9 @@ Author's custom styles
   -webkit-transition: all 0.3s 1s ease-out;  
   transition: all 0.3s 1s ease-out;
 }
+
+.bg-eco-feature{
+  background-color: #fff;
+  padding: 3px;
+  border: 3px solid #296568;
+}

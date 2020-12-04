@@ -1,4 +1,4 @@
-<div class="col-md-12 jumbotron rounded-0" style="background-color: #299890;">
+<div class="col-md-12 jumbotron rounded-0 mt-3" style="background-color: #299890;">
 	<h3 class="text-center text-white mb-3" data-aos="fade-down" style="margin-top: -30px;"><img src="../assets/img/eco-logo.png" width="50px;" class="img-fluid">&nbsp;<strong>eco smart</strong> home feature</h3>
 	<div class="row">
 		<div class="col-md-2" align="center" data-aos="fade-down" data-aos-delay="400">

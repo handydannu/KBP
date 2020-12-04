@@ -22,7 +22,7 @@
     <!-- main navigation -->
     <?php include 'components/navbar.php';?>
     <?php include 'components/feature.php';?>
-    <?php include 'components/eco-feature.php';?>
+    <?php include 'components/info.php';?>
     <!-- slider-top -->
     <?php// include 'components/hadiah.php';?>
     <?php include 'components/form.php';?>

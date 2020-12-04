@@ -4,7 +4,7 @@
     &nbsp;&nbsp;&nbsp;<i class="fas fa-quote-right"></i></p>
 </div>
 
-<section id="hero-feature" class="mt-2 d-flex flex-column justify-content-center align-items-center animate__fadeInDown animate__delay-5s">
+<section id="hero-feature" class="d-flex flex-column justify-content-center align-items-center" style="margin-top: -15px !important;">
     <div class="container text-center text-md-left" data-aos="fade-up">
       <div class="row"> 
         <div class="col-md-4 col-sm-12">

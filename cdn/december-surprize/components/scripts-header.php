@@ -19,7 +19,7 @@
 <!-- CSS SIMAKANCANA -->
 <link href="https://rawcdn.githack.com/handydannu/KBP/6f442ab43e220f3b7d2a467ad7e45a9134d62da6/assets/css/kbp-simakancana.css" rel="stylesheet">
 <!-- CSS SIMAKANCANA -->
-<link href="https://rawcdn.githack.com/handydannu/KBP/1c28de87561cc1d91501a0e350b566c5516e0656/assets/css/kbp-prize.css" rel="stylesheet">
+<link href="https://rawcdn.githack.com/handydannu/KBP/36a28df097aeff00c13ca4ecd2d42715de911577/assets/css/kbp-prize.css" rel="stylesheet">
 <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 <!-- JQUERY -->
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>

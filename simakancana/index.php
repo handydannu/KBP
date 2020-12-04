@@ -25,6 +25,7 @@
     <?php include 'components/house.php';?>
     <?php include 'components/top-forms.php';?>
     <?php include 'components/feature.php';?>
+    <?php include 'components/eco-feature.php';?>
     <?php include 'components/download.php';?>
     <?php include 'components/progress.php';?>
     <?php include 'components/galeri.php';?>

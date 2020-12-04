@@ -13,8 +13,9 @@
 <link href="https://fonts.googleapis.com/css2?family=Oswald&display=swap" rel="stylesheet"> 
 <script src="https://kit.fontawesome.com/07c3763c4b.js" crossorigin="anonymous"></script>
 <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 
-<link href="https://rawcdn.githack.com/handydannu/KBP/6f442ab43e220f3b7d2a467ad7e45a9134d62da6/assets/css/kbp-simakancana.css" rel="stylesheet">
+<link href="https://rawcdn.githack.com/handydannu/KBP/1ac21ea49c82f1b45e5175d2081c6b306ae4e3b4/assets/css/kbp-simakancana.css" rel="stylesheet">
 <link href="https://rawcdn.githack.com/handydannu/KBP/6f442ab43e220f3b7d2a467ad7e45a9134d62da6/assets/css/kbp-hunian.css" rel="stylesheet">
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 

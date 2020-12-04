@@ -29,7 +29,7 @@
       <p class="text-center font-weight-light text-capitalize font-weight-bold" style="font-size: 35px;">
         Beli Rumah Simakancana dan menangkan hadiahnya
       </p>
-      <p class="text-center" style="font-size: 25px;">
+      <p class="text-center" style="font-size: 20px;">
         <i class="fas fa-quote-right"></i>&nbsp;&nbsp;&nbsp;Hunian dua lantai berarsitektur modern tropis yang tampil hangat dan natural serta dilengkapi dengan fitur Eco Smart Home. Perpaduan bukaan maksimal pada fasad rumah menciptakan pencahayaan dan penghawaan alami di ruang dalam yang optimal. Keberadaan area taman belakang yang luas dapat dimanfaatkan oleh penghuni untuk berkreasi dalam mempercantik taman hunian.&nbsp;&nbsp;&nbsp;<i class="fas fa-quote-right"></i>
       </p>
     </div>

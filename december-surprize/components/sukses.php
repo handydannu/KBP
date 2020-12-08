@@ -12,7 +12,7 @@
 	<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 </head>
 <body>
-	<div class="alert alert-danger" role="alert">
+	<div class="alert alert-success" role="alert">
 		Email berhasil dikirim. Halaman akan dialihkan otomatis pada 5 detik. . .
 	</div>
 	<!-- ======= Hero Section ======= -->

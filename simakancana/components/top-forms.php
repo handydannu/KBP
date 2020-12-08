@@ -19,25 +19,27 @@
           <h5 class="text-white">Welcome to</h5>
           <h5 class="text-white font-weight-bold">KOTA BARU PARAHYANGAN</h5>
             <p class="text-white">The Future is Here as Close as Our Heart</p>
-         <form action="components/send.php" method="post">
+         <form action="https://pilihdikbpaja.us7.list-manage.com/subscribe/post?u=8fc551df2621f979cbd032433&amp;id=052c550bd6" method="post">
             <div class="form-group">
               <label class="text-white text-uppercase" for="nama">Nama</label> 
-              <input id="nama" name="nama" type="text" required="required" class="form-control rounded-0">
+              <input name="FNAME" id="mce-FNAME" type="text" required="required" class="form-control rounded-0">
             </div>
             <div class="form-group">
               <label class="text-white text-uppercase" for="email">Email</label> 
-              <input id="email" name="email" type="text" class="form-control rounded-0" required="required">
+              <input name="EMAIL" id="mce-EMAIL" type="text" class="form-control rounded-0" required="required">
             </div>
             <div class="form-group">
               <label class="text-white text-uppercase" for="phone">Nomor Ponsel<sup>*</sup></label> 
-              <input id="phone" name="tlp" type="text" class="form-control rounded-0" required="required">
+              <input name="PHONE" id="mce-PHONE" type="text" class="form-control rounded-0" required="required">
             </div>
             <div class="form-group">
               <label class="text-white text-uppercase" for="message">Pesan/Request</label> 
-              <input id="message" name="pesan" type="text" class="form-control rounded-0" required="required">
+              <input name="MMERGE2" id="mce-MMERGE2" type="text" class="form-control rounded-0" required="required">
             </div> 
+            <div class="response" id="mce-error-response" style="display:none"></div>
+            <div class="response" id="mce-success-response" style="display:none"></div>
             <div class="form-group">
-              <button name="kirim" type="submit" value="SEND MESSAGE" class="rounded-0 btn button-green text-uppercase font-weight-bold">Get Notified</button>
+              <button type="submit" name="subscribe" id="mc-embedded-subscribe" value="subscribe" class="rounded-0 btn button-green text-uppercase font-weight-bold">Get Notified</button>
             </div>
           </form>
 

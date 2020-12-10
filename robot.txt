@@ -1,6 +1,8 @@
 User-Agent: *
 Allow: /simakancana/
+Allow: /december-surprize/
 Allow: /ruko/
 Allow: /hunian/
 Disallow: /assets/
-Disallow: /front/
+Disallow: /components/
+Disallow: /scripts/

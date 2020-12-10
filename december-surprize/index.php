@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="id">
   <head>
-     <?php include 'components/scripts-header.php';?>
+     <?php include '../scripts/dec-scripts-header.php';?>
   </head>
   <body>
 
@@ -15,21 +15,15 @@
 <div class="container-fluid">
 	<div class="row">
 		<div class="col-md-2"><!--leave empty --></div>
-		
-    <!-- main content here -->
+		    <!-- main content here -->
     <div class="col-md-8">
-
     <!-- main navigation -->
-    <?php include 'components/navbar.php';?>
-    <?php include 'components/feature.php';?>
-    <?php include 'components/info.php';?>
-    <!-- slider-top -->
+    <?php include '../components/all-navbar.php';?>
+    <?php include '../components/dec-feature.php';?>
+    <?php include '../components/dec-info.php';?>
     <?php// include 'components/hadiah.php';?>
-    <?php include 'components/form.php';?>
-    <!-- callme -->
-    <?php include 'components/callme.php';?>
-     <!--  button to top 
-    <a id="mybutton" class="text-white" onclick="tekannext()"><i class="text-white fas fa-backward"></i>&nbsp;SEBELUMNYA-->  
+    <?php include '../components/dec-form.php';?>
+    <?php include '../components/dec-callme.php';?>
     <a id="nextyes" class="text-white" onclick="tekannext()">SELANJUTNYA&nbsp;<i class="text-white fas fa-forward"></i> 
     </a>
   		
@@ -43,9 +37,9 @@
 
   <!-- footer row -->
   <div id="footer" class="container-fluid bg-footer-kbp text-center mt-2">
-    <?php include 'components/main-footer.php';?>
+    <?php include '../components/all-footer.php';?>
   </div><!-- /footer row -->
 
-  <?php include 'components/scripts-footer.php';?>
+  <?php include '../scripts/dec-scripts-footer.php';?>
   </body>
 </html>

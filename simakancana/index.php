@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="id">
   <head>
-     <?php include 'components/scripts-header.php';?>
+     <?php include '../scripts/sim-scripts-header.php';?>
   </head>
   <body>
 
@@ -20,24 +20,24 @@
     <div class="col-md-8">
 
     <!-- main navigation -->
-    <?php include 'components/navbar.php';?>
+    <?php include '../components/all-navbar.php';?>
     <!-- slider-top -->
-    <?php include 'components/house.php';?>
-    <?php include 'components/top-forms.php';?>
-    <?php include 'components/feature.php';?>
-    <?php include 'components/eco-feature.php';?>
-    <?php include 'components/download.php';?>
-    <?php include 'components/progress.php';?>
-    <?php include 'components/galeri.php';?>
+    <?php include '../components/sim-house.php';?>
+    <?php include '../components/sim-top-forms.php';?>
+    <?php include '../components/sim-feature.php';?>
+    <?php include '../components/sim-eco-feature.php';?>
+    <?php include '../components/sim-download.php';?>
+    <?php include '../components/sim-progress.php';?>
+    <?php include '../components/sim-galeri.php';?>
     <!-- video -->
-    <?php include 'components/videos.php';?>
+    <?php include '../components/sim-videos.php';?>
     <!-- video -->
-    <?php include 'components/callme.php';?>
+    <?php include '../components/all-callme.php';?>
     <!-- 4 thumbs -->
-    <?php include '../hunian/components/thumb-below.php';?>
+    <?php include '../components/all-thumb-below.php';?>
      <!--  button to top -->
     <a id="prevyes" class="text-white" onclick="tekanprev()"><i class="text-white fas fa-backward"></i>&nbsp;SEBELUMNYA  
-    <a id="nextyes" class="text-white" onclick="tekannext()">SELANJUTNYA&nbsp;<i class="text-white fas fa-forward"></i> 
+  <!--   <a id="nextyes" class="text-white" onclick="tekannext()">SELANJUTNYA&nbsp;<i class="text-white fas fa-forward"></i>  -->
     </a>
   		
 		</div><!-- /end main content -->
@@ -50,9 +50,9 @@
 
   <!-- footer row -->
   <div id="footer" class="container-fluid bg-footer-kbp text-center mt-2">
-    <?php include 'components/main-footer.php';?>
+    <?php include '../components/all-footer.php';?>
   </div><!-- /footer row -->
 
-  <?php include 'components/scripts-footer.php';?>
+  <?php include '../scripts/sim-scripts-footer.php';?>
   </body>
 </html>

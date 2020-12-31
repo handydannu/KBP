@@ -86,10 +86,8 @@ function tekannext() {
     .attr('rel', 'gallery')
     .fancybox({
         padding : 0
-    });
-    
-    $(".zoom").hover(function(){
-		
+    });    
+    $(".zoom").hover(function(){		
 		$(this).addClass('transition');
 	}, function(){
         

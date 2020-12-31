@@ -1,7 +1,5 @@
 <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-white menu-sticky shadow">
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#kbphunian-nav">
-    <span class="navbar-toggler-icon"></span>
-  </button>
+ 
   <div class="collapse navbar-collapse" id="main_nav">
     <ul class="navbar-nav mx-auto">
       <li class="nav-item"><a class="nav-link" href="#"><img src="../assets/img/logo.png"></a></li>

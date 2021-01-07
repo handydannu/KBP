@@ -17,13 +17,15 @@
 		<div class="col-md-2"><!--leave empty --></div>
 		    <!-- main content here -->
     <div class="col-md-8">
+
+    <?php include '../components/dec-jan.php';?>
     <!-- main navigation -->
     <?php include '../components/all-navbar.php';?>
-    <?php include '../components/dec-feature.php';?>
-    <?php include '../components/dec-info.php';?>
+    <?php //include '../components/dec-feature.php';?>
+    <?php //include '../components/dec-info.php';?>
     <?php// include 'components/hadiah.php';?>
-    <?php include '../components/dec-form.php';?>
-    <?php include '../components/dec-callme.php';?>
+    <?php //include '../components/dec-form.php';?>
+    <?php //include '../components/dec-callme.php';?>
     <a id="nextyes" class="text-white" onclick="tekannext()">SELANJUTNYA&nbsp;<i class="text-white fas fa-forward"></i> 
     </a>
   		
@@ -37,7 +39,7 @@
 
   <!-- footer row -->
   <div id="footer" class="container-fluid bg-footer-kbp text-center mt-2">
-    <?php include '../components/all-footer.php';?>
+  <?php include '../components/all-footer.php';?>
   </div><!-- /footer row -->
 
   <?php include '../scripts/dec-scripts-footer.php';?>

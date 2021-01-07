@@ -7,6 +7,7 @@
       <a class="mr-2 ml-2 footer-medsos" target="_blank" href="https://wa.me/+6287722683888?text=Saya%20tertarik%20dengan%20hunian%20yang%20dijual" data-aos="fade-down" data-aos-delay="1100"><i class="fab fa-whatsapp fa-2x"></i></a> -->
   </div>        
 </div>
+
 <hr class="bg-white">
 <div class="row pt-2">
   <div class="col-lg-12 col-md-12 col-sm-12">

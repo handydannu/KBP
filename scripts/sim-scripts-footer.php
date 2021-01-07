@@ -95,3 +95,23 @@ function tekannext() {
 	});
 });
 </script>
+
+<script>
+function openNav() {
+  document.getElementById("mySidebar").style.width = "300px";
+  document.getElementById("main").style.marginLeft = "300px";
+}
+
+function closeNav() {
+  document.getElementById("mySidebar").style.width = "0";
+  document.getElementById("main").style.marginLeft= "-20px";
+}
+</script>
+
+<script>
+$("#tombol").click(function() {
+    $('html, body').animate({
+        scrollTop: $("#section2").offset().top
+    }, 2000);
+});
+</script>

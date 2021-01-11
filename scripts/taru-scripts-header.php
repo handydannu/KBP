@@ -11,18 +11,20 @@
 <link rel="icon" type="assets/image/x-icon" href="../assets/img/eco-logo.png" />
 <!-- google font -->
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400&display=swap" rel="stylesheet">  
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Jura&display=swap" rel="stylesheet"> 
 <link href="https://fonts.googleapis.com/css2?family=Oswald&display=swap" rel="stylesheet"> 
 <!-- Font awesome -->
 <script src="https://kit.fontawesome.com/07c3763c4b.js" crossorigin="anonymous"></script>
 <!-- Bootstrap main css -->
-<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+<link rel="stylesheet" href="../assets/css/bootstrap.css">
 <!-- CSS SIMAKANCANA -->
 <link href="../assets/css/kbp-simakancana.css" rel="stylesheet">
 <!-- CSS SIMAKANCANA -->
 <link href="../assets/css/kbp-hunian.css" rel="stylesheet">
 <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 <!-- JQUERY -->
-<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha512-H9jrZiiopUdsLpg94A333EfumgUBpO9MdbxStdeITo+KEIMaNfHNvwyjjDJb+ERPaRS6DpyRlKbvPUasNItRyw==" crossorigin="anonymous" />
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha512-uURl+ZXMBrF4AwGaWmEetzrd+J5/8NRkWAvJx5sbPSSuOb0bZLqf+tOzniObO00BjHa/dD7gub9oCGMLPQHtQA==" crossorigin="anonymous"></script>
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -92,5 +94,21 @@
 @media screen and (max-height: 450px) {
   .sidebar {padding-top: 15px;}
   .sidebar a {font-size: 18px;}
+}
+.cpn{
+    position: absolute;
+    right: 5%;
+    bottom: 0;
+    z-index: 10;
+    color: #fff;
+    text-shadow: 2px 1px #000;
+}
+.cpn2{
+    position: absolute;
+    right: 5%;
+    top: 5%;
+    z-index: 10;
+    color: #fff;
+    text-shadow: 2px 1px #000;
 }
 </style>

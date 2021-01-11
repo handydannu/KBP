@@ -29,11 +29,14 @@
 
      <!--  button to top -->
    <!--  <a id="prevyes" class="text-white" onclick="tekanprev()"><i class="text-white fas fa-backward"></i>&nbsp;SEBELUMNYA   </a> -->
-    <a href="https://wa.me/+6287722683888?text=Saya tertarik dengan Produk Hunian di Kota Baru Parahyangan">
+    <a href="https://wa.me/+6287722683888?text=Saya tertarik dengan Produk di Kota Baru Parahyangan ">
       <img src="../assets/img/wa.png"  id="fixedbuttonimage">
     </a>    
     <a onclick="openNav()"target="_blank">
       <img src="../assets/img/form-r.png" id="fixedbuttonimage2">
+    </a> 
+    <a href="https://goo.gl/maps/nj8oi2ArH17UkgMa7" target="_blank">
+      <img src="../assets/img/map.png" id="fixedbuttonimage3">
     </a> 
    
   <!--   <a id="nextyes" class="text-white" onclick="tekannext()">SELANJUTNYA&nbsp;<i class="text-white fas fa-forward"></i>  -->

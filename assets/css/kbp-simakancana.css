@@ -58,7 +58,7 @@ body{
 /*nav area */
 .menu-sticky {
   z-index: 999;    
-  height: 150px;
+  height: 100px;
 }
 
 /*footer area */
@@ -323,7 +323,7 @@ body{
 #hero-taru {
   width: 100%;
   height: 480px;
-  background: url("https://res.cloudinary.com/dansprogramming/image/upload/v1609310903/KBP_TARUBHAWANA/BEV_1.jpg") center center;
+  background: url("https://res.cloudinary.com/dansprogramming/image/upload/v1610335054/7_Resize.jpg") center center;
   background-size: cover;
   position: relative;
   padding: 0;
@@ -358,16 +358,16 @@ body{
   font-family: 'Montserrat', sans-serif;
 }
 #hero-taru .btn-get-started {
-  font-family: "Poppins", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: 400;
   font-size: 13px;
   letter-spacing: 2px;
   display: inline-block;
   padding: 12px 28px;
-  border-radius: 4px;
+  border-radius: 8px;
   transition: ease-in-out 0.3s;
   color: #fff;
-  background: #3498db;
+  background: #0C79BF;
   text-transform: uppercase;
 }
 #hero-taru .btn-get-started:hover {
@@ -682,7 +682,7 @@ Author's custom styles
 
 #fixedbuttonimage{
     position: fixed;
-    top: 40%;
+    bottom: 25%;
     right: 10px; 
     border-radius: 50%;
     width: 50px;
@@ -694,7 +694,19 @@ Author's custom styles
 #fixedbuttonimage2{
 
     position: fixed;
-    top: 50%;
+    bottom: 15%;
+    right: 10px; 
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    background-color:#038A7C;
+    color: #fff;   
+    z-index: 1000;
+}
+#fixedbuttonimage3{
+
+    position: fixed;
+    bottom: 5%;
     right: 10px; 
     border-radius: 50%;
     width: 50px;

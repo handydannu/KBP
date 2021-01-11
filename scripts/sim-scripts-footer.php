@@ -1,5 +1,5 @@
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 <script>
   AOS.init();
@@ -98,8 +98,8 @@ function tekannext() {
 
 <script>
 function openNav() {
-  document.getElementById("mySidebar").style.width = "300px";
-  document.getElementById("main").style.marginLeft = "300px";
+  document.getElementById("mySidebar").style.width = "250px";
+  document.getElementById("main").style.marginLeft = "250px";
 }
 
 function closeNav() {
@@ -112,6 +112,15 @@ function closeNav() {
 $("#tombol").click(function() {
     $('html, body').animate({
         scrollTop: $("#section2").offset().top
-    }, 2000);
+    }, 3000);
 });
+</script>
+
+<script type="text/javascript">
+  $('#taru-2').carousel({
+  interval: 3000
+});
+$('#taru-1').carousel({
+  interval: 3000
+})
 </script>

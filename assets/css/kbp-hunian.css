@@ -148,7 +148,7 @@ input[type="text"]
 /*nav area */
 .menu-sticky {
   z-index: 999;    
-  height: 150px;
+  height: 100px;
 }
 
 /*footer area */

@@ -1,9 +1,9 @@
-<h2 class="mt-4" style="margin-left:10px;font-family: 'Jura', sans-serif;font-size: 16px"><span>Eco Smart Feature</span></h2><div class="row" data-aos="zoom-out">
+<h2 class="mt-4" style="margin-left:10px;font-family: 'Jura', sans-serif;font-size: 18px"><span>Eco Smart Feature</span></h2><div class="row" data-aos="zoom-out">
   <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
     <div id="taru-2" class="carousel slide" data-ride="carousel">
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img class="d-block w-100 img-fluid" src="../assets/img/ecohome/eco-4.jpg">
+          <img class="d-block w-100 img-fluid" src="../assets/img/tarubhawana/smart-feature.jpg">
         </div>
       </div>
     </div>
@@ -11,7 +11,7 @@
   </div>
 </div>
 
-<div class="row">
+<!-- <div class="row">
 <div class="col-md-12 rounded-0 text-center text-white" style="background: rgb(42,69,53);
 background: linear-gradient(140deg, rgba(42,69,53,1) 0%, rgba(3,138,124,1) 59%);font-size: 14px;">
 	<div class="row mt-5" style="letter-spacing: 2px;">
@@ -77,7 +77,7 @@ background: linear-gradient(140deg, rgba(42,69,53,1) 0%, rgba(3,138,124,1) 59%);
 		</div>
 	</div>
 </div>
-</div>
+</div> -->
 
 <!-- <div class="col-md-12 jumbotron rounded-0 text-white" style="background: rgb(42,69,53);
 background: linear-gradient(140deg, rgba(42,69,53,1) 0%, rgba(3,138,124,1) 59%);">

@@ -12,7 +12,7 @@
       <div class="loader-section section-right"></div>
     </div> -->
 
-<div class="container-fluid">
+<div class="container-fluid" style="margin-top: 105px;">
 	<div class="row">
 		
     <!-- main content here -->
@@ -23,7 +23,7 @@
     <?php include '../components/taru-top-forms.php';?>
     <?php include '../components/taru-slide-1.php';?>
     <?php include '../components/taru-motion.php';?>
-    <?php include '../components/taru-brochure.php';?>
+    <?php // include '../components/taru-brochure.php';?>
     <?php include '../components/taru-tour.php';?>
     <?php include '../components/taru-eco-feature.php';?>
 
@@ -35,7 +35,7 @@
     <a onclick="openNav()"target="_blank">
       <img src="../assets/img/form-r.png" id="fixedbuttonimage2">
     </a> 
-    <a href="https://goo.gl/maps/nj8oi2ArH17UkgMa7" target="_blank">
+    <a href="https://goo.gl/maps/HFtT4jz633DzrvQi6" target="_blank">
       <img src="../assets/img/map.png" id="fixedbuttonimage3">
     </a> 
    

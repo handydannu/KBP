@@ -8,7 +8,7 @@
     </ul>
   </div> <!-- navbar-collapse.// -->
 
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main_nav">
+  <button class="navbar-toggler" type="button" data-toggle="collapse">
     <a class="navbar-brand text-white sub-head-16" href="#"><img class="img-fluid" src="../assets/img/logo.png">
       <span class="navbar-toggler-icon"></span>
     </a>

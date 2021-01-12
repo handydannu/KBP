@@ -1,5 +1,5 @@
-
-<div class="jumbotron rounded-0 bg-transparent" style="margin-top: -80px;margin-bottom: -40px">
+<!-- 
+<div class="jumbotron rounded-0 bg-transparent" style="margin-top: -20px;margin-bottom: -40px">
 	<p class="text-center font-weight-light" style="font-size: 16px;" data-aos="fade-down">
 		<strong>Rumah Taruwanoja</strong> di Tatar Tarubhawana telah dilengkapi dengan fitur	
 	</p>
@@ -7,8 +7,8 @@
 	<p class="text-center font-weight-light" style="font-size: 16px;" data-aos="fade-down">
 		Miliki Rumah di Tatar Tarubhawana dengan kenyamanan dan keamanan <br>24 jam serta tata kelola Town Management Kota Baru Parahyangan yang menciptakan lingkungan hunian dan kota tertata rapi.
 	</p>
-</div>
- <h2 style="margin-top: -20px;margin-left:20px;font-size: 20px"><span>360<sup>o</sup> Tour</span></h2>
+</div> -->
+ <h2 class="mt-3" style="margin-left:10px;font-size: 18px"><span>360<sup>o</sup> Virtual Tour</span></h2>
 
 <div class="row">
 	<div class="col-md-2 col-sm-2 col-xs-2"></div>	

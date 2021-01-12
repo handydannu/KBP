@@ -5,14 +5,14 @@
 			<a data-fancybox="images-1" href="https://www.youtube.com/watch?v=e9gCLJD896Y" style="text-decoration: none;">
 				<img src="https://res.cloudinary.com/dansprogramming/image/upload/v1610350948/com-1.png" width="100px;" class="img-fluid rounded-circle bg-eco-feature">
 			
-  			<h6 class="text-white mt-2" style="background-color: #038A7C; padding: 10px; width: 40%">Kota Mandiri Berwawasan Pendidikan</h6>
+  			<h6 class="text-white mt-2" style="background-color: #038A7C; padding: 10px; width: 40%">Corporate Profile</h6>
   			</a>
 		</div>
 
 		<div class="col-md-4" align="center" data-aos="fade-down" data-aos-delay="400">
 			<a data-fancybox="images-2" href="https://www.youtube.com/watch?v=cgklRP2LZDY" style="text-decoration: none;">
 			<img src="https://res.cloudinary.com/dansprogramming/image/upload/v1610350948/com-2.png" width="100px;" class="img-fluid rounded-circle bg-eco-feature">
-  			<h6 class="text-white mt-2" style="background-color: #038A7C; padding: 10px; width: 40%">Town Center Kota Baru Parahyangan </h6>
+  			<h6 class="text-white mt-2" style="background-color: #038A7C; padding: 10px; width: 40%">Town Center</h6>
   			</a>
 		</div>
 

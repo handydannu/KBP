@@ -1,5 +1,5 @@
 <!-- ======= Hero Section ======= -->
-  <section id="hero-taru" style="margin-top: 105px">
+  <section id="hero-taru">
       <div class="row">        
 
       <div class="col-md-12 col-sm-12 col-xs-12">

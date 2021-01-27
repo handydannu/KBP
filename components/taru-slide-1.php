@@ -105,26 +105,14 @@
       </ol>
 
       <div class="carousel-inner">
-        <!-- <div class="carousel-item active">          
-          <img class="d-block w-100 img-fluid" src="../assets/img/tarubhawana/t94-denah.jpg">
-        </div> -->
         <div class="carousel-item active">
           <img class="d-block w-100 img-fluid" src="../assets/img/ecohome/eco-2.jpg">
-          <!-- <div class="cpn2">
-            <h3 style="font-size: 24px;">Living & Dining</h3>
-          </div> -->
         </div>
         <div class="carousel-item">
           <img class="d-block w-100 img-fluid" src="../assets/img/ecohome/eco-3.jpg">
-          <!--  <div class="cpn2">
-            <h3 style="font-size: 24px;">Study Room</h3>
-          </div> -->
         </div>
         <div class="carousel-item">
           <img class="d-block w-100 img-fluid" src="../assets/img/ecohome/eco-6.jpg">
-          <!-- <div class="cpn2">
-            <h3 style="font-size: 24px;">Master Bedroom</h3>
-          </div> -->
         </div>
       </div>
 
@@ -147,27 +135,15 @@
         <li data-target="#taru-taruwanoja-2" data-slide-to="2"></li>
       </ol>
 
-      <div class="carousel-inner"><!-- 
-        <div class="carousel-item active">          
-          <img class="d-block w-100 img-fluid" src="../assets/img/tarubhawana/t99-denah.jpg">
-        </div> -->
+      <div class="carousel-inner">
         <div class="carousel-item active">
           <img class="d-block w-100 img-fluid" src="../assets/img/ecohome/eco-4.jpg">
-          <!-- <div class="cpn2">
-            <h3 style="font-size: 24px;">Living & Dining</h3>
-          </div> -->
         </div>
         <div class="carousel-item">
           <img class="d-block w-100 img-fluid" src="../assets/img/ecohome/eco-5.jpg">
-           <!-- <div class="cpn2">
-            <h3 style="font-size: 24px;">Study Room</h3>
-          </div> -->
         </div>
         <div class="carousel-item">
           <img class="d-block w-100 img-fluid" src="../assets/img/ecohome/eco-1.jpg">
-          <!-- <div class="cpn2">
-            <h3 style="font-size: 24px;">Master Bedroom</h3>
-          </div> -->
         </div>
       </div>
 

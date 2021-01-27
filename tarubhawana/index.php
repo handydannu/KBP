@@ -6,11 +6,11 @@
   <body>
 
     <!-- loader -->
-  <!--   <div id="loader-wrapper">
+    <div id="loader-wrapper">
       <div id="loader"></div>
       <div class="loader-section section-left"></div>
       <div class="loader-section section-right"></div>
-    </div> -->
+    </div>
 
 <div class="container-fluid" style="margin-top: 105px;">
 	<div class="row">

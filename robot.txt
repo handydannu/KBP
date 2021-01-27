@@ -1,4 +1,5 @@
 User-Agent: *
+Allow: /tarubhawana/
 Allow: /simakancana/
 Allow: /december-surprize/
 Allow: /ruko/

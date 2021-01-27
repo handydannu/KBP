@@ -53,7 +53,6 @@
             <button class="btn-get-started">Your Home Your Dream</button>
           </a>
         </section>
-
       </div>
     </div>
   </section><!-- End Hero -->

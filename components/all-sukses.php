@@ -16,15 +16,15 @@
 		Email berhasil dikirim. Halaman akan dialihkan otomatis pada 5 detik. . .
 	</div>
 	<!-- ======= Hero Section ======= -->
-	<section id="hero" class="d-flex flex-column justify-content-center align-items-center" style="margin-top: 0px;">
-		<div class="container text-center text-md-left" data-aos="fade-up">
+	<section id="hero-taru" class="d-flex flex-column justify-content-center align-items-center" style="margin-top: 0px;">
+		<div class="container-fluid p-0 text-center text-md-left" data-aos="fade-up">
 			<div class="row">
 				<div class="col-md-12 col-sm-12 col-sx-12">
 					<section class="mt-3">
-						<h1>NEW HOUSE TYPE <br>RUMAH SIMAKANCANA</h1>
+						<h1>NEW HOUSE TYPE <br>TATAR TARUBHAWANA</h1>
 
-						<h2><img src="https://res.cloudinary.com/dansprogramming/image/upload/v1604546769/KBP_SIMAKANCANA/IMG/eco-logo.png" class="img-fluid minilogo">&nbsp;Eco Smart Home</h2>
-						<h2 class="mt-min20">Serene Living in The Beauty of Nature</h2>
+						<h3 class="text-white"><img src="https://res.cloudinary.com/dansprogramming/image/upload/v1604546769/KBP_SIMAKANCANA/IMG/eco-logo.png" class="img-fluid minilogo">&nbsp;Eco Smart Home</h3>
+						<h1 class="mt-min20">Serene Living in The Beauty of Nature</h1>
 					</section>
 				</div>
 			</div>
